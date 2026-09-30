@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Basketball slips</title>
+<style>
+:root{
+  --ink:#14202E; --court:#1F4E8C; --wood:#B9773A; --paper:#EEF1F5;
+  --card:#FFFFFF; --line:#D3DAE3; --good:#2E7D5B; --bad:#B23A3A; --muted:#5A6878;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.5 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.wrap{max-width:780px;margin:0 auto;padding:28px 16px 72px}
+h1,h2,h3{font-family:Georgia,"Iowan Old Style","Palatino Linotype",serif;font-weight:700;letter-spacing:-.01em}
+h1{font-size:clamp(30px,8vw,44px);line-height:1.05;margin:0 0 10px}
+h2{font-size:22px;line-height:1.2;margin:0 0 4px}
+h3{font-size:17px;margin:0}
+section{margin-top:36px}
+.lede{font-size:18px;margin:0 0 6px;max-width:34em}
+.sub,.status,.hint{color:var(--muted);font-size:14px;margin:4px 0}
+:focus-visible{outline:3px solid var(--court);outline-offset:2px}
+select,input,button{font-family:inherit}
+
+.line-ctl{margin:16px 0 8px;padding:14px 16px;background:var(--card);border:1px solid var(--line);border-radius:10px}
+.line-ctl label{display:block;font-weight:600;margin-bottom:8px}
+.line-ctl input[type=range]{width:100%;accent-color:var(--court)}
+
+.leaguebar{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}
+.leaguebar button{
+  font-size:13px;font-weight:600;padding:6px 14px;border-radius:999px;border:1px solid #B7C1CE;
+  background:#fff;color:var(--muted);cursor:pointer;
+}
+.leaguebar button.on{background:var(--court);color:#fff;border-color:var(--court)}
+
+#board{border-bottom:1px solid var(--line)}
+.game{border-top:1px solid var(--line);padding:14px 0}
+.game .hd{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap}
+.game .hd span{color:var(--muted);font-size:13px}
+.note{
+  margin-top:8px;padding:10px 12px;background:#F4EFE4;border:1px solid #E3D6B8;border-radius:8px;
+  font-size:13.5px;color:#5C4B1E;
+}
+.note.loading{color:var(--muted);background:transparent;border:1px dashed var(--line)}
+.legrow{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:7px 0;font-size:14px}
+.legrow .p{font-variant-numeric:tabular-nums;color:var(--muted);width:44px;text-align:right}
+.legrow .price{font-family:Georgia,serif;font-weight:700;width:54px;text-align:right}
+
+.ticket{
+  display:grid;grid-template-columns:112px minmax(0,1fr);
+  background:var(--card);border:1px solid var(--line);border-radius:10px;margin:14px 0;overflow:hidden;position:relative;
+}
+.stub{background:var(--court);color:#fff;padding:16px 8px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;border-right:2px dashed rgba(255,255,255,.6)}
+.ticket.bomb .stub{background:var(--wood)}
+.tot{font-family:Georgia,serif;font-weight:700;font-size:34px;line-height:1;font-variant-numeric:tabular-nums}
+.stub small{display:block;font-size:13px;opacity:.9;margin-top:6px}
+.legs{list-style:none;margin:0;padding:6px 16px}
+.legs li{display:flex;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px solid var(--line)}
+.legs li:last-child{border-bottom:0}
+.legs strong{display:block}
+.legs span{display:block;color:var(--muted);font-size:13px}
+.lo{text-align:right;white-space:nowrap;font-family:Georgia,serif;font-weight:700}
+.foot{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;border-top:1px solid var(--line);padding:10px 16px;font-size:14px}
+.badge{padding:3px 10px;border-radius:999px;font-size:13px;font-weight:600;white-space:nowrap}
+.badge.strong{background:#DDF0E6;color:#1E5C42}
+.badge.mod{background:#DCE7F5;color:#1A417A}
+.badge.long{background:#F5E4D2;color:#83501F}
+.empty{background:var(--card);border:1px dashed #B7C1CE;border-radius:10px;padding:16px;margin:14px 0}
+
+.stake-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:12px;margin:14px 0}
+.stake-grid label{display:block;font-size:14px;color:var(--muted)}
+.stake-grid input,.stake-grid output{display:block;width:100%;margin-top:4px;font-size:16px;color:var(--ink);padding:8px 10px;border:1px solid #B7C1CE;border-radius:6px;background:#fff}
+.stake-grid output{background:#E6EBF1}
+#stakeNote p{margin:4px 0}
+.notes{padding-left:20px}
+.notes li{margin:6px 0}
+.errbox{background:#FBE9E9;border:1px solid #E3B3B3;color:#7A2626;border-radius:10px;padding:14px 16px;margin:14px 0;font-size:14px}
+@media (max-width:640px){.ticket{grid-template-columns:92px minmax(0,1fr)}.tot{font-size:28px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Basketball slips</h1>
+  <p class="lede">Real bookmaker odds, refreshed daily. Slips are built from live prices, no game repeated within a group.</p>
+  <p class="sub" id="asOf">Loading today's games…</p>
+</header>
+
+<section id="err-section" hidden><div class="errbox" id="errBox"></div></section>
+
+<section aria-labelledby="h-board">
+  <h2 id="h-board">Today's games</h2>
+  <div class="leaguebar" id="leagueBar"></div>
+  <div class="line-ctl">
+    <label for="line">Safe line: only legs at or above <output id="lineOut">60%</output></label>
+    <input type="range" id="line" min="50" max="90" step="1" value="60">
+  </div>
+  <div id="board"></div>
+</section>
+
+<section aria-labelledby="h-3">
+  <h2 id="h-3">3-odds slips</h2>
+  <p class="sub" id="sub3"></p>
+  <p class="status" id="st3"></p>
+  <div id="slips3"></div>
+</section>
+
+<section aria-labelledby="h-10">
+  <h2 id="h-10">10-odds slips</h2>
+  <p class="sub" id="sub10"></p>
+  <p class="status" id="st10"></p>
+  <div id="slips10"></div>
+</section>
+
+<section aria-labelledby="h-stake">
+  <h2 id="h-stake">Stake plan</h2>
+  <div class="stake-grid">
+    <label>Daily budget (₦)<input id="budget" inputmode="numeric" value="2000"></label>
+    <label>Safe slips (%)<input id="safePct" inputmode="numeric" value="70"></label>
+    <label>10-odds slips (%)<input id="bombPct" inputmode="numeric" value="10"></label>
+    <label>Reserve (%)<output id="reserve">20%</output></label>
+  </div>
+  <div id="stakeNote"></div>
+</section>
+
+<section aria-labelledby="h-notes">
+  <h2 id="h-notes">About the numbers</h2>
+  <ul class="notes">
+    <li>Odds are the best price found across tracked bookmakers, refreshed once a day. Your own bookmaker's price may differ — always confirm before staking.</li>
+    <li>Win chance for each leg is implied from the odds, adjusted so all outcomes for a game sum to 100%.</li>
+    <li>Injury and head-to-head notes are pulled once a day per game and are a summary, not a guarantee — always check for last-minute changes.</li>
+    <li>Hit chance multiplies each leg's chance together. Every extra leg lowers it.</li>
+    <li>No slip is guaranteed. Only stake what you can afford to lose.</li>
+  </ul>
+</section>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
