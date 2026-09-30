@@ -1,1 +1,5085 @@
-{"generatedAt": null, "leagues": []}
+{
+  "generatedAt": "2026-09-30T09:22:33.116Z",
+  "leagues": [
+    {
+      "league": "NBA",
+      "games": [
+        {
+          "id": "26b036ff107f3c658258eaf4a6f26228",
+          "league": "NBA",
+          "commence": "2026-10-20T19:00:00Z",
+          "home": "Detroit Pistons",
+          "away": "Boston Celtics",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Boston Celtics",
+                "point": null,
+                "price": 2.12,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Detroit Pistons",
+                "point": null,
+                "price": 1.85,
+                "book": "FanDuel"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Boston Celtics",
+                "point": 1.5,
+                "price": 1.99,
+                "book": "1xBet"
+              },
+              {
+                "name": "Detroit Pistons",
+                "point": -1.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Boston Celtics",
+                "point": 2,
+                "price": 1.95,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Detroit Pistons",
+                "point": -2,
+                "price": 1.94,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Boston Celtics",
+                "point": 2.5,
+                "price": 1.83,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Detroit Pistons",
+                "point": -2.5,
+                "price": 1.93,
+                "book": "Nordic Bet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 221.5,
+                "price": 1.99,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 221.5,
+                "price": 1.95,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Over",
+                "point": 222.5,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Under",
+                "point": 222.5,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Over",
+                "point": 220.5,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 220.5,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 223.5,
+                "price": 2.05,
+                "book": "Bet Victor"
+              },
+              {
+                "name": "Under",
+                "point": 223.5,
+                "price": 1.7,
+                "book": "Bet Victor"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2b042ddad3d3c6c6fe5b7005dc26c775",
+          "league": "NBA",
+          "commence": "2026-10-20T23:00:00Z",
+          "home": "New York Knicks",
+          "away": "Philadelphia 76ers",
+          "markets": {
+            "h2h": [
+              {
+                "name": "New York Knicks",
+                "point": null,
+                "price": 1.54,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": null,
+                "price": 2.85,
+                "book": "1xBet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "New York Knicks",
+                "point": -5.5,
+                "price": 2.01,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": 5.5,
+                "price": 1.95,
+                "book": "FanDuel"
+              },
+              {
+                "name": "New York Knicks",
+                "point": -5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": 5,
+                "price": 1.99,
+                "book": "LowVig.ag"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 232.5,
+                "price": 1.92,
+                "book": "Grosvenor"
+              },
+              {
+                "name": "Under",
+                "point": 232.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Over",
+                "point": 231.5,
+                "price": 1.95,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 231.5,
+                "price": 1.97,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 235.5,
+                "price": 2.2,
+                "book": "Bet Victor"
+              },
+              {
+                "name": "Under",
+                "point": 235.5,
+                "price": 1.6,
+                "book": "Bet Victor"
+              }
+            ]
+          }
+        },
+        {
+          "id": "bccd283de56915e29af1788beb0abfc9",
+          "league": "NBA",
+          "commence": "2026-10-21T01:30:00Z",
+          "home": "San Antonio Spurs",
+          "away": "Oklahoma City Thunder",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Oklahoma City Thunder",
+                "point": null,
+                "price": 2.23,
+                "book": "1xBet"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": null,
+                "price": 1.83,
+                "book": "FanDuel"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Oklahoma City Thunder",
+                "point": 1.5,
+                "price": 1.96,
+                "book": "GTbets"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": -1.5,
+                "price": 1.89,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": 2.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": -2.5,
+                "price": 2.1,
+                "book": "888sport"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": 2,
+                "price": 1.92,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": -2,
+                "price": 1.89,
+                "book": "Unibet (SE)"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 231.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 231.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Over",
+                "point": 230.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 230.5,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Over",
+                "point": 228.5,
+                "price": 1.91,
+                "book": "Grosvenor"
+              },
+              {
+                "name": "Under",
+                "point": 228.5,
+                "price": 2,
+                "book": "Bet Victor"
+              },
+              {
+                "name": "Over",
+                "point": 229.5,
+                "price": 1.92,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 229.5,
+                "price": 2,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 230,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 230,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              }
+            ]
+          }
+        },
+        {
+          "id": "85e6e4e2404ef7268659739997758da1",
+          "league": "NBA",
+          "commence": "2026-10-21T23:10:00Z",
+          "home": "Orlando Magic",
+          "away": "Atlanta Hawks",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Atlanta Hawks",
+                "point": null,
+                "price": 2.21,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Orlando Magic",
+                "point": null,
+                "price": 1.75,
+                "book": "Unibet (SE)"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Atlanta Hawks",
+                "point": 2.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Orlando Magic",
+                "point": -2.5,
+                "price": 1.96,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 233.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 233.5,
+                "price": 1.96,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "164cc0396837d5ff433215ffd3279283",
+          "league": "NBA",
+          "commence": "2026-10-21T23:10:00Z",
+          "home": "Washington Wizards",
+          "away": "Milwaukee Bucks",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Milwaukee Bucks",
+                "point": null,
+                "price": 3,
+                "book": "Unibet (NL)"
+              },
+              {
+                "name": "Washington Wizards",
+                "point": null,
+                "price": 1.48,
+                "book": "Unibet (UK)"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Milwaukee Bucks",
+                "point": 6.5,
+                "price": 1.91,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Washington Wizards",
+                "point": -6.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Milwaukee Bucks",
+                "point": 5.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Washington Wizards",
+                "point": -5.5,
+                "price": 1.96,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 237.5,
+                "price": 1.9,
+                "book": "LiveScore Bet"
+              },
+              {
+                "name": "Under",
+                "point": 237.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Over",
+                "point": 239,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 239,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 238.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 238.5,
+                "price": 1.99,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 239.5,
+                "price": 1.9,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Under",
+                "point": 239.5,
+                "price": 1.86,
+                "book": "Nordic Bet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "47cc511bb5ce50f715e3625ce5ef77ee",
+          "league": "NBA",
+          "commence": "2026-10-21T23:40:00Z",
+          "home": "Brooklyn Nets",
+          "away": "Charlotte Hornets",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Brooklyn Nets",
+                "point": null,
+                "price": 2.61,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Charlotte Hornets",
+                "point": null,
+                "price": 1.61,
+                "book": "BetMGM"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Brooklyn Nets",
+                "point": 4.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Charlotte Hornets",
+                "point": -4.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Brooklyn Nets",
+                "point": 3.5,
+                "price": 1.91,
+                "book": "888sport"
+              },
+              {
+                "name": "Charlotte Hornets",
+                "point": -3.5,
+                "price": 1.91,
+                "book": "888sport"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 225.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 225.5,
+                "price": 1.92,
+                "book": "Grosvenor"
+              },
+              {
+                "name": "Over",
+                "point": 225,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 225,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 226.5,
+                "price": 1.95,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Under",
+                "point": 226.5,
+                "price": 1.87,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Over",
+                "point": 224.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 224.5,
+                "price": 1.99,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "93cdd8e4ade5697cfccf42ee42c4d207",
+          "league": "NBA",
+          "commence": "2026-10-21T23:40:00Z",
+          "home": "Miami Heat",
+          "away": "Minnesota Timberwolves",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Miami Heat",
+                "point": null,
+                "price": 1.87,
+                "book": "1xBet"
+              },
+              {
+                "name": "Minnesota Timberwolves",
+                "point": null,
+                "price": 2.06,
+                "book": "1xBet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Miami Heat",
+                "point": -1.5,
+                "price": 1.99,
+                "book": "1xBet"
+              },
+              {
+                "name": "Minnesota Timberwolves",
+                "point": 1.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 243.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 243.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 244,
+                "price": 1.99,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Under",
+                "point": 244,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 243,
+                "price": 1.88,
+                "book": "Unibet (NL)"
+              },
+              {
+                "name": "Under",
+                "point": 243,
+                "price": 1.93,
+                "book": "Unibet (NL)"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fd33c09c84ab4c2fe6955d59f8dc5dd2",
+          "league": "NBA",
+          "commence": "2026-10-22T00:10:00Z",
+          "home": "New Orleans Pelicans",
+          "away": "Indiana Pacers",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Indiana Pacers",
+                "point": null,
+                "price": 1.61,
+                "book": "GTbets"
+              },
+              {
+                "name": "New Orleans Pelicans",
+                "point": null,
+                "price": 2.48,
+                "book": "Pinnacle"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Indiana Pacers",
+                "point": -4.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "New Orleans Pelicans",
+                "point": 4.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Indiana Pacers",
+                "point": -4,
+                "price": 1.95,
+                "book": "Bovada"
+              },
+              {
+                "name": "New Orleans Pelicans",
+                "point": 4,
+                "price": 1.88,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Indiana Pacers",
+                "point": -3.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "New Orleans Pelicans",
+                "point": 3.5,
+                "price": 2,
+                "book": "Pinnacle"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 243.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Under",
+                "point": 243.5,
+                "price": 1.91,
+                "book": "Coral"
+              },
+              {
+                "name": "Over",
+                "point": 242.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 242.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 243,
+                "price": 1.92,
+                "book": "LiveScore Bet"
+              },
+              {
+                "name": "Under",
+                "point": 243,
+                "price": 1.9,
+                "book": "LiveScore Bet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "e6769c813dd625b622df94c14a562ce2",
+          "league": "NBA",
+          "commence": "2026-10-22T00:10:00Z",
+          "home": "Memphis Grizzlies",
+          "away": "Utah Jazz",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Memphis Grizzlies",
+                "point": null,
+                "price": 2.28,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Utah Jazz",
+                "point": null,
+                "price": 1.7,
+                "book": "Unibet (SE)"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Memphis Grizzlies",
+                "point": 3.5,
+                "price": 1.85,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Utah Jazz",
+                "point": -3.5,
+                "price": 1.98,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Memphis Grizzlies",
+                "point": 3,
+                "price": 1.94,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Utah Jazz",
+                "point": -3,
+                "price": 1.95,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Memphis Grizzlies",
+                "point": 2.5,
+                "price": 2.01,
+                "book": "1xBet"
+              },
+              {
+                "name": "Utah Jazz",
+                "point": -2.5,
+                "price": 1.91,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 241.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Under",
+                "point": 241.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Over",
+                "point": 243,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 243,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 242.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 242.5,
+                "price": 1.99,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 243.5,
+                "price": 1.9,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Under",
+                "point": 243.5,
+                "price": 1.86,
+                "book": "Nordic Bet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "af2f084075391e55ba2a596e7846bb40",
+          "league": "NBA",
+          "commence": "2026-10-22T00:40:00Z",
+          "home": "Houston Rockets",
+          "away": "Dallas Mavericks",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Dallas Mavericks",
+                "point": null,
+                "price": 4.25,
+                "book": "1xBet"
+              },
+              {
+                "name": "Houston Rockets",
+                "point": null,
+                "price": 1.33,
+                "book": "BetMGM"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Dallas Mavericks",
+                "point": 8.5,
+                "price": 1.91,
+                "book": "1xBet"
+              },
+              {
+                "name": "Houston Rockets",
+                "point": -8.5,
+                "price": 2.01,
+                "book": "1xBet"
+              },
+              {
+                "name": "Dallas Mavericks",
+                "point": 8,
+                "price": 1.94,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Houston Rockets",
+                "point": -8,
+                "price": 1.94,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Dallas Mavericks",
+                "point": 7.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Houston Rockets",
+                "point": -7.5,
+                "price": 1.8,
+                "book": "888sport"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 226.5,
+                "price": 1.88,
+                "book": "BetRivers"
+              },
+              {
+                "name": "Under",
+                "point": 226.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Over",
+                "point": 227.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 227.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 228.5,
+                "price": 1.9,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Under",
+                "point": 228.5,
+                "price": 1.86,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Over",
+                "point": 227,
+                "price": 1.93,
+                "book": "Virgin Bet"
+              },
+              {
+                "name": "Under",
+                "point": 227,
+                "price": 1.89,
+                "book": "Virgin Bet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6fff70f4bf196dba25060a5775a03b54",
+          "league": "NBA",
+          "commence": "2026-10-22T02:10:00Z",
+          "home": "Los Angeles Lakers",
+          "away": "Golden State Warriors",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Golden State Warriors",
+                "point": null,
+                "price": 2.85,
+                "book": "1xBet"
+              },
+              {
+                "name": "Los Angeles Lakers",
+                "point": null,
+                "price": 1.57,
+                "book": "888sport"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Golden State Warriors",
+                "point": 5.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Los Angeles Lakers",
+                "point": -5.5,
+                "price": 1.98,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Golden State Warriors",
+                "point": 4.5,
+                "price": 1.92,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Los Angeles Lakers",
+                "point": -4.5,
+                "price": 1.91,
+                "book": "888sport"
+              },
+              {
+                "name": "Golden State Warriors",
+                "point": 5,
+                "price": 1.97,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Los Angeles Lakers",
+                "point": -5,
+                "price": 1.92,
+                "book": "Pinnacle"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 235.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Under",
+                "point": 235.5,
+                "price": 2.01,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 237,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 237,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              }
+            ]
+          }
+        },
+        {
+          "id": "71e24359951927c356bd8c852fb867dd",
+          "league": "NBA",
+          "commence": "2026-10-22T02:10:00Z",
+          "home": "Portland Trail Blazers",
+          "away": "Phoenix Suns",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Phoenix Suns",
+                "point": null,
+                "price": 2.5,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "point": null,
+                "price": 1.62,
+                "book": "Pinnacle"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Phoenix Suns",
+                "point": 4.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "point": -4.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Phoenix Suns",
+                "point": 3.5,
+                "price": 1.97,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "point": -3.5,
+                "price": 1.96,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 235.5,
+                "price": 1.93,
+                "book": "Virgin Bet"
+              },
+              {
+                "name": "Under",
+                "point": 235.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Over",
+                "point": 235,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 235,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 234.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 234.5,
+                "price": 1.99,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "110e33c79c5ec8c0377702aff685f83b",
+          "league": "NBA",
+          "commence": "2026-10-22T23:10:00Z",
+          "home": "Philadelphia 76ers",
+          "away": "Cleveland Cavaliers",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Cleveland Cavaliers",
+                "point": null,
+                "price": 2.5,
+                "book": "Unibet (UK)"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": null,
+                "price": 1.59,
+                "book": "GTbets"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Cleveland Cavaliers",
+                "point": 4.5,
+                "price": 1.94,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": -4.5,
+                "price": 1.94,
+                "book": "LowVig.ag"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 233.5,
+                "price": 1.91,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 233.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Over",
+                "point": 234.5,
+                "price": 1.92,
+                "book": "Grosvenor"
+              },
+              {
+                "name": "Under",
+                "point": 234.5,
+                "price": 1.9,
+                "book": "Virgin Bet"
+              },
+              {
+                "name": "Over",
+                "point": 233,
+                "price": 1.98,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 233,
+                "price": 1.88,
+                "book": "LowVig.ag"
+              }
+            ]
+          }
+        },
+        {
+          "id": "223b2883b9b05a67329ef246384b85f1",
+          "league": "NBA",
+          "commence": "2026-10-23T01:40:00Z",
+          "home": "Oklahoma City Thunder",
+          "away": "Denver Nuggets",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Denver Nuggets",
+                "point": null,
+                "price": 3.3,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": null,
+                "price": 1.39,
+                "book": "Betway"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Denver Nuggets",
+                "point": 7.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": -7.5,
+                "price": 1.94,
+                "book": "LowVig.ag"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 232.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Under",
+                "point": 232.5,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 231.5,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Under",
+                "point": 231.5,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              }
+            ]
+          }
+        },
+        {
+          "id": "0d34c898f6cbb990077ae9f0a2773513",
+          "league": "NBA",
+          "commence": "2026-10-23T23:10:00Z",
+          "home": "Boston Celtics",
+          "away": "New York Knicks",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Boston Celtics",
+                "point": null,
+                "price": 1.77,
+                "book": "DraftKings"
+              },
+              {
+                "name": "New York Knicks",
+                "point": null,
+                "price": 2.14,
+                "book": "Unibet (UK)"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Boston Celtics",
+                "point": -2.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "New York Knicks",
+                "point": 2.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 223.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 223.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "49fc89a9696a9a20b658732b34ce61c4",
+          "league": "NBA",
+          "commence": "2026-10-24T01:40:00Z",
+          "home": "San Antonio Spurs",
+          "away": "Houston Rockets",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Houston Rockets",
+                "point": null,
+                "price": 2.85,
+                "book": "Unibet (UK)"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": null,
+                "price": 1.48,
+                "book": "Nordic Bet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Houston Rockets",
+                "point": 5.5,
+                "price": 1.98,
+                "book": "DraftKings"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": -5.5,
+                "price": 1.85,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Houston Rockets",
+                "point": 6.5,
+                "price": 1.91,
+                "book": "888sport"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": -6.5,
+                "price": 1.91,
+                "book": "888sport"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 225.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 225.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "45ebc54751ef3e435192eaeb0470acfb",
+          "league": "NBA",
+          "commence": "2026-10-30T23:10:00Z",
+          "home": "Washington Wizards",
+          "away": "Charlotte Hornets",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Charlotte Hornets",
+                "point": null,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Washington Wizards",
+                "point": null,
+                "price": 1.95,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Charlotte Hornets",
+                "point": -1.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Washington Wizards",
+                "point": 1.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 235.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 235.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "036a93ca33d6261c21d4bfa6e0d02568",
+          "league": "NBA",
+          "commence": "2026-10-30T23:40:00Z",
+          "home": "Boston Celtics",
+          "away": "Chicago Bulls",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Boston Celtics",
+                "point": null,
+                "price": 1.17,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Chicago Bulls",
+                "point": null,
+                "price": 5.7,
+                "book": "1xBet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Boston Celtics",
+                "point": -11.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Chicago Bulls",
+                "point": 11.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 232.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 232.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "64df299b882ea19ad5f8cb0ed5516a6f",
+          "league": "NBA",
+          "commence": "2026-10-30T23:40:00Z",
+          "home": "Brooklyn Nets",
+          "away": "Detroit Pistons",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Brooklyn Nets",
+                "point": null,
+                "price": 3.5,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Detroit Pistons",
+                "point": null,
+                "price": 1.32,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Brooklyn Nets",
+                "point": 8.5,
+                "price": 1.85,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Detroit Pistons",
+                "point": -8.5,
+                "price": 1.98,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Brooklyn Nets",
+                "point": 7.5,
+                "price": 1.83,
+                "book": "1xBet"
+              },
+              {
+                "name": "Detroit Pistons",
+                "point": -7.5,
+                "price": 1.83,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 225.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 225.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "96a166bbd49782dbd9a61c2fb9069787",
+          "league": "NBA",
+          "commence": "2026-10-30T23:40:00Z",
+          "home": "Philadelphia 76ers",
+          "away": "New York Knicks",
+          "markets": {
+            "h2h": [
+              {
+                "name": "New York Knicks",
+                "point": null,
+                "price": 2.05,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": null,
+                "price": 1.8,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "New York Knicks",
+                "point": 2.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": -2.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "New York Knicks",
+                "point": 1.5,
+                "price": 1.87,
+                "book": "1xBet"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": -1.5,
+                "price": 1.79,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 231.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 231.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a0f5d89a4fc51e52edd0e70d1e4cbaf2",
+          "league": "NBA",
+          "commence": "2026-10-30T23:40:00Z",
+          "home": "Toronto Raptors",
+          "away": "Orlando Magic",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Orlando Magic",
+                "point": null,
+                "price": 2.3,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Toronto Raptors",
+                "point": null,
+                "price": 1.65,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Orlando Magic",
+                "point": 3.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Toronto Raptors",
+                "point": -3.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 226.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 226.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b9778d0e3a26167eb49901dcae7eeb98",
+          "league": "NBA",
+          "commence": "2026-10-31T00:10:00Z",
+          "home": "Dallas Mavericks",
+          "away": "Houston Rockets",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Dallas Mavericks",
+                "point": null,
+                "price": 2.45,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Houston Rockets",
+                "point": null,
+                "price": 1.57,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Dallas Mavericks",
+                "point": 4.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Houston Rockets",
+                "point": -4.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 226.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 226.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "c3a424e24d426af94a693e06a33e3037",
+          "league": "NBA",
+          "commence": "2026-10-31T00:10:00Z",
+          "home": "Miami Heat",
+          "away": "Indiana Pacers",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Indiana Pacers",
+                "point": null,
+                "price": 2.3,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Miami Heat",
+                "point": null,
+                "price": 1.65,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Indiana Pacers",
+                "point": 3.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Miami Heat",
+                "point": -3.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 241.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 241.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "cac1461f5983a88fac612685395aa897",
+          "league": "NBA",
+          "commence": "2026-10-31T00:10:00Z",
+          "home": "Minnesota Timberwolves",
+          "away": "Los Angeles Clippers",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Los Angeles Clippers",
+                "point": null,
+                "price": 3.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Minnesota Timberwolves",
+                "point": null,
+                "price": 1.27,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Los Angeles Clippers",
+                "point": 9.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Minnesota Timberwolves",
+                "point": -9.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 230.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 230.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "9ae108f7a23e86e8102237053dd9e58d",
+          "league": "NBA",
+          "commence": "2026-10-31T02:10:00Z",
+          "home": "Phoenix Suns",
+          "away": "Denver Nuggets",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Denver Nuggets",
+                "point": null,
+                "price": 1.74,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Phoenix Suns",
+                "point": null,
+                "price": 2.14,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Denver Nuggets",
+                "point": -2.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Phoenix Suns",
+                "point": 2.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 234.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 234.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Over",
+                "point": 233.5,
+                "price": 1.83,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 233.5,
+                "price": 1.83,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "761c15cdefb5a94e34f234e11d6e57ad",
+          "league": "NBA",
+          "commence": "2026-10-31T02:10:00Z",
+          "home": "Golden State Warriors",
+          "away": "Los Angeles Lakers",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Golden State Warriors",
+                "point": null,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Los Angeles Lakers",
+                "point": null,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Golden State Warriors",
+                "point": -1.5,
+                "price": 2,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Los Angeles Lakers",
+                "point": 1.5,
+                "price": 1.83,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 235.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 235.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "85869b2fdc16ef10d3e2582bf05ead95",
+          "league": "NBA",
+          "commence": "2026-11-07T00:40:00Z",
+          "home": "Cleveland Cavaliers",
+          "away": "Philadelphia 76ers",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Cleveland Cavaliers",
+                "point": null,
+                "price": 1.82,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": null,
+                "price": 2.02,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Cleveland Cavaliers",
+                "point": -1.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": 1.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 233.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 233.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "83d77fe350d56a036fd7a3404e78249a",
+          "league": "NBA",
+          "commence": "2026-11-07T03:10:00Z",
+          "home": "Los Angeles Lakers",
+          "away": "Portland Trail Blazers",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Los Angeles Lakers",
+                "point": null,
+                "price": 1.62,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "point": null,
+                "price": 2.36,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Los Angeles Lakers",
+                "point": -4.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Portland Trail Blazers",
+                "point": 4.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 238.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 238.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6669b911691463c669a5c10574742e8e",
+          "league": "NBA",
+          "commence": "2026-11-14T00:10:00Z",
+          "home": "Indiana Pacers",
+          "away": "New York Knicks",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Indiana Pacers",
+                "point": null,
+                "price": 2.05,
+                "book": "DraftKings"
+              },
+              {
+                "name": "New York Knicks",
+                "point": null,
+                "price": 1.8,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Indiana Pacers",
+                "point": 1.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "New York Knicks",
+                "point": -1.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Indiana Pacers",
+                "point": 2.5,
+                "price": 1.79,
+                "book": "1xBet"
+              },
+              {
+                "name": "New York Knicks",
+                "point": -2.5,
+                "price": 1.87,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 233.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 233.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "1fae7f34ec6035dffa74feb148ee26c7",
+          "league": "NBA",
+          "commence": "2026-11-14T02:40:00Z",
+          "home": "San Antonio Spurs",
+          "away": "Golden State Warriors",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Golden State Warriors",
+                "point": null,
+                "price": 5.41,
+                "book": "1xBet"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": null,
+                "price": 1.19,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Golden State Warriors",
+                "point": 10.5,
+                "price": 1.98,
+                "book": "DraftKings"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": -10.5,
+                "price": 1.85,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 234.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 234.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "9051693857c6a0e5e1bc6bb2b4f6fe35",
+          "league": "NBA",
+          "commence": "2026-11-21T00:40:00Z",
+          "home": "Detroit Pistons",
+          "away": "Toronto Raptors",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Detroit Pistons",
+                "point": null,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Toronto Raptors",
+                "point": null,
+                "price": 1.95,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Detroit Pistons",
+                "point": -1.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Toronto Raptors",
+                "point": 1.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 227.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 227.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "086d2fe80483ffcc280994fe2e12d4f4",
+          "league": "NBA",
+          "commence": "2026-11-21T03:10:00Z",
+          "home": "Denver Nuggets",
+          "away": "Houston Rockets",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Denver Nuggets",
+                "point": null,
+                "price": 1.65,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Houston Rockets",
+                "point": null,
+                "price": 2.3,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Denver Nuggets",
+                "point": -3.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Houston Rockets",
+                "point": 3.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 228.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 228.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Over",
+                "point": 227.5,
+                "price": 1.83,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 227.5,
+                "price": 1.83,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "3167a4072c65c9314c71d0fe49be8e28",
+          "league": "NBA",
+          "commence": "2026-11-25T01:10:00Z",
+          "home": "Washington Wizards",
+          "away": "Boston Celtics",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Boston Celtics",
+                "point": null,
+                "price": 1.52,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Washington Wizards",
+                "point": null,
+                "price": 2.61,
+                "book": "1xBet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Boston Celtics",
+                "point": -5.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Washington Wizards",
+                "point": 5.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 230.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 230.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "6bfadbd22ed8a054cf82ec1b12b78243",
+          "league": "NBA",
+          "commence": "2026-11-25T03:10:00Z",
+          "home": "Denver Nuggets",
+          "away": "Dallas Mavericks",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Dallas Mavericks",
+                "point": null,
+                "price": 3.75,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Denver Nuggets",
+                "point": null,
+                "price": 1.29,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Dallas Mavericks",
+                "point": 8.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Denver Nuggets",
+                "point": -8.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 237.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 237.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "4f6d199bb67cf3a517a3880fd2f00b26",
+          "league": "NBA",
+          "commence": "2026-11-25T22:10:00Z",
+          "home": "Philadelphia 76ers",
+          "away": "Miami Heat",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Miami Heat",
+                "point": null,
+                "price": 2.36,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": null,
+                "price": 1.62,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Miami Heat",
+                "point": 3.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": -3.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Miami Heat",
+                "point": 4.5,
+                "price": 1.79,
+                "book": "1xBet"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": -4.5,
+                "price": 1.87,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 239.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 239.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "07421d1675d6bc51bb5fa91f84a09eb3",
+          "league": "NBA",
+          "commence": "2026-11-26T00:40:00Z",
+          "home": "Oklahoma City Thunder",
+          "away": "Minnesota Timberwolves",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Minnesota Timberwolves",
+                "point": null,
+                "price": 4.08,
+                "book": "1xBet"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": null,
+                "price": 1.27,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Minnesota Timberwolves",
+                "point": 9.5,
+                "price": 1.85,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": -9.5,
+                "price": 1.98,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Minnesota Timberwolves",
+                "point": 8.5,
+                "price": 1.83,
+                "book": "1xBet"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": -8.5,
+                "price": 1.83,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 234.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 234.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "9aa9f220709533d70d11f85fae886771",
+          "league": "NBA",
+          "commence": "2026-11-26T03:10:00Z",
+          "home": "Portland Trail Blazers",
+          "away": "San Antonio Spurs",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Portland Trail Blazers",
+                "point": null,
+                "price": 2.42,
+                "book": "DraftKings"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": null,
+                "price": 1.59,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Portland Trail Blazers",
+                "point": 4.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": -4.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 237.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 237.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "3c522e32c3035d7dc3e1734903b84654",
+          "league": "NBA",
+          "commence": "2026-11-28T00:10:00Z",
+          "home": "New York Knicks",
+          "away": "Miami Heat",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Miami Heat",
+                "point": null,
+                "price": 2.61,
+                "book": "1xBet"
+              },
+              {
+                "name": "New York Knicks",
+                "point": null,
+                "price": 1.52,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Miami Heat",
+                "point": 5.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "New York Knicks",
+                "point": -5.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 233.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 233.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Over",
+                "point": 232.5,
+                "price": 1.83,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 232.5,
+                "price": 1.83,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "13d9ca3bcb664829c603755d31401002",
+          "league": "NBA",
+          "commence": "2026-11-28T02:40:00Z",
+          "home": "San Antonio Spurs",
+          "away": "Los Angeles Lakers",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Los Angeles Lakers",
+                "point": null,
+                "price": 3.3,
+                "book": "DraftKings"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": null,
+                "price": 1.35,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Los Angeles Lakers",
+                "point": 7.5,
+                "price": 1.98,
+                "book": "DraftKings"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": -7.5,
+                "price": 1.87,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 232.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 232.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a6555e8b7252dfb32f1817fc8c59ad83",
+          "league": "NBA",
+          "commence": "2026-12-25T17:00:00Z",
+          "home": "New York Knicks",
+          "away": "San Antonio Spurs",
+          "markets": {
+            "h2h": [
+              {
+                "name": "New York Knicks",
+                "point": null,
+                "price": 2,
+                "book": "Bovada"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": null,
+                "price": 1.95,
+                "book": "DraftKings"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "New York Knicks",
+                "point": 1.5,
+                "price": 1.91,
+                "book": "Bovada"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": -1.5,
+                "price": 2.1,
+                "book": "888sport"
+              },
+              {
+                "name": "New York Knicks",
+                "point": -1,
+                "price": 1.94,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": 1,
+                "price": 1.87,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "New York Knicks",
+                "point": -1.5,
+                "price": 1.96,
+                "book": "GTbets"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": 1.5,
+                "price": 1.91,
+                "book": "BetMGM"
+              },
+              {
+                "name": "New York Knicks",
+                "point": 0,
+                "price": 1.94,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "San Antonio Spurs",
+                "point": 0,
+                "price": 1.94,
+                "book": "LowVig.ag"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 227.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 227.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Over",
+                "point": 230,
+                "price": 1.92,
+                "book": "Grosvenor"
+              },
+              {
+                "name": "Under",
+                "point": 230,
+                "price": 1.9,
+                "book": "Virgin Bet"
+              },
+              {
+                "name": "Over",
+                "point": 228.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Under",
+                "point": 228.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Over",
+                "point": 227,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 227,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              }
+            ]
+          }
+        },
+        {
+          "id": "d60e7fc0690e4dff121a086395e24de4",
+          "league": "NBA",
+          "commence": "2026-12-25T19:30:00Z",
+          "home": "Boston Celtics",
+          "away": "Miami Heat",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Boston Celtics",
+                "point": null,
+                "price": 1.57,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Miami Heat",
+                "point": null,
+                "price": 2.75,
+                "book": "888sport"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Boston Celtics",
+                "point": -6.5,
+                "price": 1.95,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Miami Heat",
+                "point": 6.5,
+                "price": 1.91,
+                "book": "888sport"
+              },
+              {
+                "name": "Boston Celtics",
+                "point": -5.5,
+                "price": 1.95,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Miami Heat",
+                "point": 5.5,
+                "price": 1.94,
+                "book": "LowVig.ag"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 231.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 231.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Over",
+                "point": 230.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Under",
+                "point": 230.5,
+                "price": 1.92,
+                "book": "Grosvenor"
+              },
+              {
+                "name": "Over",
+                "point": 231,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 231,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              }
+            ]
+          }
+        },
+        {
+          "id": "dfd908bad3a3bfcae9e08bf128273b18",
+          "league": "NBA",
+          "commence": "2026-12-25T22:00:00Z",
+          "home": "Los Angeles Lakers",
+          "away": "Philadelphia 76ers",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Los Angeles Lakers",
+                "point": null,
+                "price": 1.93,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": null,
+                "price": 2,
+                "book": "Bovada"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Los Angeles Lakers",
+                "point": -1.5,
+                "price": 1.99,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": 1.5,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Los Angeles Lakers",
+                "point": -1,
+                "price": 1.91,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": 1,
+                "price": 1.91,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Los Angeles Lakers",
+                "point": 1.5,
+                "price": 1.73,
+                "book": "888sport"
+              },
+              {
+                "name": "Philadelphia 76ers",
+                "point": -1.5,
+                "price": 2.1,
+                "book": "888sport"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 237.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Under",
+                "point": 237.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Over",
+                "point": 234,
+                "price": 1.9,
+                "book": "Virgin Bet"
+              },
+              {
+                "name": "Under",
+                "point": 234,
+                "price": 1.92,
+                "book": "Grosvenor"
+              },
+              {
+                "name": "Over",
+                "point": 236.5,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Under",
+                "point": 236.5,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Over",
+                "point": 235.5,
+                "price": 1.86,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Under",
+                "point": 235.5,
+                "price": 1.9,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Over",
+                "point": 236,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 236,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              }
+            ]
+          }
+        },
+        {
+          "id": "2b7218aa25cf98318a40e6f2469a5c5d",
+          "league": "NBA",
+          "commence": "2026-12-26T01:00:00Z",
+          "home": "Minnesota Timberwolves",
+          "away": "Oklahoma City Thunder",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Minnesota Timberwolves",
+                "point": null,
+                "price": 2.45,
+                "book": "Bovada"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": null,
+                "price": 1.63,
+                "book": "FanDuel"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Minnesota Timberwolves",
+                "point": 4.5,
+                "price": 1.95,
+                "book": "Bovada"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": -4.5,
+                "price": 1.99,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Minnesota Timberwolves",
+                "point": 4,
+                "price": 1.88,
+                "book": "BetRivers"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": -4,
+                "price": 1.93,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Minnesota Timberwolves",
+                "point": 3.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": -3.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 233.5,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 233.5,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 233,
+                "price": 1.92,
+                "book": "Grosvenor"
+              },
+              {
+                "name": "Under",
+                "point": 233,
+                "price": 1.9,
+                "book": "Virgin Bet"
+              },
+              {
+                "name": "Over",
+                "point": 234.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 234.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Over",
+                "point": 232.5,
+                "price": 1.88,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Under",
+                "point": 232.5,
+                "price": 1.88,
+                "book": "Nordic Bet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "85a2379bc49135f2759709e55af0c4c6",
+          "league": "NBA",
+          "commence": "2026-12-26T03:30:00Z",
+          "home": "Golden State Warriors",
+          "away": "Denver Nuggets",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Denver Nuggets",
+                "point": null,
+                "price": 1.79,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Golden State Warriors",
+                "point": null,
+                "price": 2.18,
+                "book": "Nordic Bet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Denver Nuggets",
+                "point": -2.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Golden State Warriors",
+                "point": 2.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Denver Nuggets",
+                "point": -2,
+                "price": 1.92,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Golden State Warriors",
+                "point": 2,
+                "price": 1.89,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Denver Nuggets",
+                "point": -4,
+                "price": 1.99,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Golden State Warriors",
+                "point": 4,
+                "price": 1.9,
+                "book": "LowVig.ag"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 239.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 239.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Over",
+                "point": 234.5,
+                "price": 1.9,
+                "book": "Virgin Bet"
+              },
+              {
+                "name": "Under",
+                "point": 234.5,
+                "price": 1.92,
+                "book": "Grosvenor"
+              },
+              {
+                "name": "Over",
+                "point": 238.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Under",
+                "point": 238.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Over",
+                "point": 237.5,
+                "price": 1.86,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Under",
+                "point": 237.5,
+                "price": 1.9,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Over",
+                "point": 240,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 240,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "WNBA",
+      "games": [
+        {
+          "id": "2e0dc047f09840084e34e02f5d39b8fb",
+          "league": "WNBA",
+          "commence": "2026-09-30T23:10:00Z",
+          "home": "Washington Mystics",
+          "away": "Atlanta Dream",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Atlanta Dream",
+                "point": null,
+                "price": 1.63,
+                "book": "Betfair"
+              },
+              {
+                "name": "Washington Mystics",
+                "point": null,
+                "price": 2.52,
+                "book": "Betfair"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Atlanta Dream",
+                "point": -3.5,
+                "price": 1.94,
+                "book": "Matchbook"
+              },
+              {
+                "name": "Washington Mystics",
+                "point": 3.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Atlanta Dream",
+                "point": -4.5,
+                "price": 1.96,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Washington Mystics",
+                "point": 4.5,
+                "price": 1.88,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Atlanta Dream",
+                "point": -4,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Washington Mystics",
+                "point": 4,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 165.5,
+                "price": 1.93,
+                "book": "Grosvenor"
+              },
+              {
+                "name": "Under",
+                "point": 165.5,
+                "price": 1.96,
+                "book": "Matchbook"
+              },
+              {
+                "name": "Over",
+                "point": 166.5,
+                "price": 1.91,
+                "book": "888sport"
+              },
+              {
+                "name": "Under",
+                "point": 166.5,
+                "price": 1.8,
+                "book": "888sport"
+              },
+              {
+                "name": "Over",
+                "point": 166,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 166,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              }
+            ]
+          }
+        },
+        {
+          "id": "9c267dad149001fe5eccdf229290ec13",
+          "league": "WNBA",
+          "commence": "2026-10-01T01:00:00Z",
+          "home": "Dallas Wings",
+          "away": "Golden State Valkyries",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Dallas Wings",
+                "point": null,
+                "price": 2.6,
+                "book": "1xBet"
+              },
+              {
+                "name": "Golden State Valkyries",
+                "point": null,
+                "price": 1.58,
+                "book": "Betfair"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Dallas Wings",
+                "point": 4.5,
+                "price": 1.91,
+                "book": "Bovada"
+              },
+              {
+                "name": "Golden State Valkyries",
+                "point": -4.5,
+                "price": 1.97,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Dallas Wings",
+                "point": 3.5,
+                "price": 1.96,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Golden State Valkyries",
+                "point": -3.5,
+                "price": 1.82,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Dallas Wings",
+                "point": 4,
+                "price": 1.91,
+                "book": "MyBookie.ag"
+              },
+              {
+                "name": "Golden State Valkyries",
+                "point": -4,
+                "price": 1.91,
+                "book": "MyBookie.ag"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 155.5,
+                "price": 1.87,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 155.5,
+                "price": 1.95,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Over",
+                "point": 156.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 156.5,
+                "price": 1.95,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 157,
+                "price": 1.91,
+                "book": "Bovada"
+              },
+              {
+                "name": "Under",
+                "point": 157,
+                "price": 1.91,
+                "book": "Bovada"
+              }
+            ]
+          }
+        },
+        {
+          "id": "ee2b184fd8957e70d5dfe20da80f01c5",
+          "league": "WNBA",
+          "commence": "2026-10-02T01:00:00Z",
+          "home": "Las Vegas Aces",
+          "away": "Indiana Fever",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Indiana Fever",
+                "point": null,
+                "price": 2.53,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Las Vegas Aces",
+                "point": null,
+                "price": 1.59,
+                "book": "GTbets"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Indiana Fever",
+                "point": 4.5,
+                "price": 1.87,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Las Vegas Aces",
+                "point": -4.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Indiana Fever",
+                "point": 4,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Las Vegas Aces",
+                "point": -4,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Indiana Fever",
+                "point": 3.5,
+                "price": 1.96,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Las Vegas Aces",
+                "point": -3.5,
+                "price": 1.85,
+                "book": "Unibet (SE)"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 181.5,
+                "price": 1.95,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Under",
+                "point": 181.5,
+                "price": 1.91,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Over",
+                "point": 181,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 181,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 180.5,
+                "price": 1.85,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Under",
+                "point": 180.5,
+                "price": 1.93,
+                "book": "Coolbet"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "EuroLeague",
+      "games": [
+        {
+          "id": "2aaa0ae80af04f452f8dc975d0902369",
+          "league": "Basketball Euroleague",
+          "commence": "2026-09-30T18:05:00Z",
+          "home": "Maccabi Tel Aviv",
+          "away": "Beşiktaş J.K.",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Beşiktaş J.K.",
+                "point": null,
+                "price": 2.76,
+                "book": "Betfair"
+              },
+              {
+                "name": "Maccabi Tel Aviv",
+                "point": null,
+                "price": 1.52,
+                "book": "1xBet"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 13,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Beşiktaş J.K.",
+                "point": 4.5,
+                "price": 1.98,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Maccabi Tel Aviv",
+                "point": -4.5,
+                "price": 1.91,
+                "book": "1xBet"
+              },
+              {
+                "name": "Beşiktaş J.K.",
+                "point": 11.5,
+                "price": 1.3,
+                "book": "Coral"
+              },
+              {
+                "name": "Maccabi Tel Aviv",
+                "point": -11.5,
+                "price": 3.1,
+                "book": "Coral"
+              },
+              {
+                "name": "Beşiktaş J.K.",
+                "point": 5,
+                "price": 1.89,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Maccabi Tel Aviv",
+                "point": -5,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 174.5,
+                "price": 1.91,
+                "book": "Bovada"
+              },
+              {
+                "name": "Under",
+                "point": 174.5,
+                "price": 1.92,
+                "book": "GTbets"
+              },
+              {
+                "name": "Over",
+                "point": 175.5,
+                "price": 1.94,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 175.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Over",
+                "point": 181.5,
+                "price": 2.62,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 181.5,
+                "price": 1.4,
+                "book": "Coral"
+              },
+              {
+                "name": "Over",
+                "point": 175,
+                "price": 1.85,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Under",
+                "point": 175,
+                "price": 2.01,
+                "book": "Pinnacle"
+              }
+            ]
+          }
+        },
+        {
+          "id": "337e9bc962f0f5e8ac9323992c563c11",
+          "league": "Basketball Euroleague",
+          "commence": "2026-09-30T18:15:00Z",
+          "home": "Panathinaikos",
+          "away": "ASVEL Lyon Villeurbanne",
+          "markets": {
+            "h2h": [
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": null,
+                "price": 9.5,
+                "book": "888sport"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": null,
+                "price": 1.13,
+                "book": "Betfair"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 21,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": 14.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": -14.5,
+                "price": 2.05,
+                "book": "Bovada"
+              },
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": 13.5,
+                "price": 1.95,
+                "book": "1xBet"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": -13.5,
+                "price": 1.93,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": 19.5,
+                "price": 1.44,
+                "book": "Coral"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": -19.5,
+                "price": 2.6,
+                "book": "Coral"
+              },
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": 13,
+                "price": 2,
+                "book": "Matchbook"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": -13,
+                "price": 1.89,
+                "book": "Matchbook"
+              },
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": 14,
+                "price": 1.85,
+                "book": "MyBookie.ag"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": -14,
+                "price": 1.85,
+                "book": "MyBookie.ag"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 165.5,
+                "price": 1.98,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Under",
+                "point": 165.5,
+                "price": 1.91,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 172.5,
+                "price": 2.62,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 172.5,
+                "price": 1.4,
+                "book": "Coral"
+              },
+              {
+                "name": "Over",
+                "point": 165,
+                "price": 1.87,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 165,
+                "price": 1.95,
+                "book": "LowVig.ag"
+              }
+            ]
+          }
+        },
+        {
+          "id": "7583f2e5f52107921d6e38a7c1961dab",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-01T16:00:00Z",
+          "home": "Hapoel Tel Aviv",
+          "away": "Real Madrid",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Hapoel Tel Aviv",
+                "point": null,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Real Madrid",
+                "point": null,
+                "price": 2.04,
+                "book": "1xBet"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 11,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Hapoel Tel Aviv",
+                "point": -1.5,
+                "price": 2,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Real Madrid",
+                "point": 1.5,
+                "price": 1.88,
+                "book": "1xBet"
+              },
+              {
+                "name": "Hapoel Tel Aviv",
+                "point": -8.5,
+                "price": 3.2,
+                "book": "Coral"
+              },
+              {
+                "name": "Real Madrid",
+                "point": 8.5,
+                "price": 1.3,
+                "book": "Coral"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 176.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 176.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 183.5,
+                "price": 2.62,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 183.5,
+                "price": 1.4,
+                "book": "Coral"
+              }
+            ]
+          }
+        },
+        {
+          "id": "392a93eaf1ea0b908993ca97f7805539",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-01T18:00:00Z",
+          "home": "KK Crvena zvezda",
+          "away": "Anadolu Efes",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Anadolu Efes",
+                "point": null,
+                "price": 2.7,
+                "book": "BetMGM"
+              },
+              {
+                "name": "KK Crvena zvezda",
+                "point": null,
+                "price": 1.56,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 13,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Anadolu Efes",
+                "point": 4.5,
+                "price": 1.94,
+                "book": "1xBet"
+              },
+              {
+                "name": "KK Crvena zvezda",
+                "point": -4.5,
+                "price": 1.92,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Anadolu Efes",
+                "point": 11.5,
+                "price": 1.3,
+                "book": "Coral"
+              },
+              {
+                "name": "KK Crvena zvezda",
+                "point": -11.5,
+                "price": 3.1,
+                "book": "Coral"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 168.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Under",
+                "point": 168.5,
+                "price": 1.91,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Over",
+                "point": 167.5,
+                "price": 1.91,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Under",
+                "point": 167.5,
+                "price": 1.95,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 175.5,
+                "price": 2.6,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 175.5,
+                "price": 1.44,
+                "book": "Coral"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b317d475532739fa45af483e4a6b017f",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-01T18:30:00Z",
+          "home": "Virtus Segafredo Bologna",
+          "away": "Olympiacos",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Olympiacos",
+                "point": null,
+                "price": 1.29,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Virtus Segafredo Bologna",
+                "point": null,
+                "price": 4.6,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 15,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Olympiacos",
+                "point": -8.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Virtus Segafredo Bologna",
+                "point": 8.5,
+                "price": 1.98,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Olympiacos",
+                "point": -2.5,
+                "price": 1.3,
+                "book": "Coral"
+              },
+              {
+                "name": "Virtus Segafredo Bologna",
+                "point": 2.5,
+                "price": 3.1,
+                "book": "Coral"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 169.5,
+                "price": 1.93,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 169.5,
+                "price": 1.91,
+                "book": "888sport"
+              },
+              {
+                "name": "Over",
+                "point": 168.5,
+                "price": 1.87,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Under",
+                "point": 168.5,
+                "price": 1.95,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Over",
+                "point": 185.5,
+                "price": 4.4,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 185.5,
+                "price": 1.17,
+                "book": "Coral"
+              }
+            ]
+          }
+        },
+        {
+          "id": "bc61cf4b9f34c324c42c6e9b6b3082a6",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-01T18:45:00Z",
+          "home": "Paris Basketball",
+          "away": "Žalgiris",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Paris Basketball",
+                "point": null,
+                "price": 2.38,
+                "book": "Betfair"
+              },
+              {
+                "name": "Žalgiris",
+                "point": null,
+                "price": 1.74,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 11,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Paris Basketball",
+                "point": 2.5,
+                "price": 1.94,
+                "book": "1xBet"
+              },
+              {
+                "name": "Žalgiris",
+                "point": -2.5,
+                "price": 1.95,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Paris Basketball",
+                "point": -4.5,
+                "price": 2.8,
+                "book": "Coral"
+              },
+              {
+                "name": "Žalgiris",
+                "point": 4.5,
+                "price": 1.36,
+                "book": "Coral"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 177.5,
+                "price": 1.91,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 177.5,
+                "price": 1.95,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 178.5,
+                "price": 1.91,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Under",
+                "point": 178.5,
+                "price": 1.91,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Over",
+                "point": 188.5,
+                "price": 3,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 188.5,
+                "price": 1.33,
+                "book": "Coral"
+              }
+            ]
+          }
+        },
+        {
+          "id": "40e5d4bf44b8ee40cd3304568bf8e2eb",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-02T17:00:00Z",
+          "home": "Beşiktaş J.K.",
+          "away": "FC Barcelona Bàsquet",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Beşiktaş J.K.",
+                "point": null,
+                "price": 1.68,
+                "book": "FanDuel"
+              },
+              {
+                "name": "FC Barcelona Bàsquet",
+                "point": null,
+                "price": 2.3,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 11,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Beşiktaş J.K.",
+                "point": -2.5,
+                "price": 1.89,
+                "book": "Coolbet"
+              },
+              {
+                "name": "FC Barcelona Bàsquet",
+                "point": 2.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Beşiktaş J.K.",
+                "point": -9.5,
+                "price": 3.1,
+                "book": "Coral"
+              },
+              {
+                "name": "FC Barcelona Bàsquet",
+                "point": 9.5,
+                "price": 1.3,
+                "book": "Coral"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 166.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 166.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 173.5,
+                "price": 2.6,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 173.5,
+                "price": 1.44,
+                "book": "Coral"
+              }
+            ]
+          }
+        },
+        {
+          "id": "7cfc7d8d267af5b1bca6bd2f4271b38a",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-02T17:45:00Z",
+          "home": "Fenerbahce SK",
+          "away": "Dubai Basketball",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Dubai Basketball",
+                "point": null,
+                "price": 2.7,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Fenerbahce SK",
+                "point": null,
+                "price": 1.51,
+                "book": "1xBet"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 13,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Dubai Basketball",
+                "point": 4.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Fenerbahce SK",
+                "point": -4.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Dubai Basketball",
+                "point": 10.5,
+                "price": 1.36,
+                "book": "Coral"
+              },
+              {
+                "name": "Fenerbahce SK",
+                "point": -10.5,
+                "price": 2.8,
+                "book": "Coral"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 166.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 166.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 173.5,
+                "price": 2.6,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 173.5,
+                "price": 1.44,
+                "book": "Coral"
+              }
+            ]
+          }
+        },
+        {
+          "id": "8b507b94f7af3eca11c1b564af143b92",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-02T18:00:00Z",
+          "home": "ASVEL Lyon Villeurbanne",
+          "away": "Valencia Basket",
+          "markets": {
+            "h2h": [
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": null,
+                "price": 2.5,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Valencia Basket",
+                "point": null,
+                "price": 1.64,
+                "book": "1xBet"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 13,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": 3.5,
+                "price": 1.95,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Valencia Basket",
+                "point": -3.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": -5.5,
+                "price": 3.7,
+                "book": "Coral"
+              },
+              {
+                "name": "Valencia Basket",
+                "point": 5.5,
+                "price": 1.22,
+                "book": "Coral"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 169.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 169.5,
+                "price": 1.95,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Over",
+                "point": 185.5,
+                "price": 4.4,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 185.5,
+                "price": 1.17,
+                "book": "Coral"
+              }
+            ]
+          }
+        },
+        {
+          "id": "9b790a54826944661e1a02aabb4ac212",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-02T18:00:00Z",
+          "home": "FC Bayern München",
+          "away": "KK Partizan NIS",
+          "markets": {
+            "h2h": [
+              {
+                "name": "FC Bayern München",
+                "point": null,
+                "price": 1.75,
+                "book": "1xBet"
+              },
+              {
+                "name": "KK Partizan NIS",
+                "point": null,
+                "price": 2.3,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 11,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "FC Bayern München",
+                "point": -2.5,
+                "price": 1.98,
+                "book": "1xBet"
+              },
+              {
+                "name": "KK Partizan NIS",
+                "point": 2.5,
+                "price": 1.91,
+                "book": "888sport"
+              },
+              {
+                "name": "FC Bayern München",
+                "point": -8.5,
+                "price": 2.8,
+                "book": "Coral"
+              },
+              {
+                "name": "KK Partizan NIS",
+                "point": 8.5,
+                "price": 1.36,
+                "book": "Coral"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 165.5,
+                "price": 1.91,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 165.5,
+                "price": 1.95,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Over",
+                "point": 166.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Under",
+                "point": 166.5,
+                "price": 1.91,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Over",
+                "point": 172.5,
+                "price": 2.5,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 172.5,
+                "price": 1.44,
+                "book": "Coral"
+              }
+            ]
+          }
+        },
+        {
+          "id": "19d33b8516e96a36f0ec5ba4fc85f78d",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-02T18:15:00Z",
+          "home": "Panathinaikos",
+          "away": "Maccabi Tel Aviv",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Maccabi Tel Aviv",
+                "point": null,
+                "price": 6.54,
+                "book": "1xBet"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": null,
+                "price": 1.17,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 15,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Maccabi Tel Aviv",
+                "point": 10.5,
+                "price": 1.95,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": -10.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Maccabi Tel Aviv",
+                "point": 16.5,
+                "price": 1.4,
+                "book": "Coral"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": -16.5,
+                "price": 2.75,
+                "book": "Coral"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 166.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 166.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 182.5,
+                "price": 4.6,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 182.5,
+                "price": 1.15,
+                "book": "Coral"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fc6da8af368783abc0b42a3997ff4f9c",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-02T18:30:00Z",
+          "home": "Saski Baskonia",
+          "away": "Pallacanestro Olimpia Milano",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Pallacanestro Olimpia Milano",
+                "point": null,
+                "price": 1.82,
+                "book": "1xBet"
+              },
+              {
+                "name": "Saski Baskonia",
+                "point": null,
+                "price": 2.15,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Draw",
+                "point": null,
+                "price": 11,
+                "book": "Ladbrokes"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Pallacanestro Olimpia Milano",
+                "point": -1.5,
+                "price": 1.92,
+                "book": "1xBet"
+              },
+              {
+                "name": "Saski Baskonia",
+                "point": 1.5,
+                "price": 1.95,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Pallacanestro Olimpia Milano",
+                "point": -2.5,
+                "price": 1.95,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Saski Baskonia",
+                "point": 2.5,
+                "price": 1.87,
+                "book": "BetMGM"
+              },
+              {
+                "name": "Pallacanestro Olimpia Milano",
+                "point": 5.5,
+                "price": 1.36,
+                "book": "Coral"
+              },
+              {
+                "name": "Saski Baskonia",
+                "point": -5.5,
+                "price": 2.8,
+                "book": "Coral"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 172.5,
+                "price": 1.93,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 172.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 171.5,
+                "price": 1.8,
+                "book": "888sport"
+              },
+              {
+                "name": "Under",
+                "point": 171.5,
+                "price": 2,
+                "book": "888sport"
+              },
+              {
+                "name": "Over",
+                "point": 179.5,
+                "price": 2.6,
+                "book": "Coral"
+              },
+              {
+                "name": "Under",
+                "point": 179.5,
+                "price": 1.44,
+                "book": "Coral"
+              }
+            ]
+          }
+        },
+        {
+          "id": "9e310ad9a44b0e9e5e1d4244b3b1be8d",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-07T18:45:00Z",
+          "home": "Paris Basketball",
+          "away": "ASVEL Lyon Villeurbanne",
+          "markets": {
+            "h2h": [
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": null,
+                "price": 3.12,
+                "book": "1xBet"
+              },
+              {
+                "name": "Paris Basketball",
+                "point": null,
+                "price": 1.4,
+                "book": "1xBet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "ASVEL Lyon Villeurbanne",
+                "point": 5.5,
+                "price": 1.95,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Paris Basketball",
+                "point": -5.5,
+                "price": 1.93,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 176.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 176.5,
+                "price": 1.93,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "82a9602dee45bcd6c373ad39c110c027",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-08T16:00:00Z",
+          "home": "Dubai Basketball",
+          "away": "KK Crvena zvezda",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Dubai Basketball",
+                "point": null,
+                "price": 1.37,
+                "book": "Unibet (UK)"
+              },
+              {
+                "name": "KK Crvena zvezda",
+                "point": null,
+                "price": 3.31,
+                "book": "1xBet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Dubai Basketball",
+                "point": -6.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "KK Crvena zvezda",
+                "point": 6.5,
+                "price": 1.93,
+                "book": "FanDuel"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 171.5,
+                "price": 1.94,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 171.5,
+                "price": 1.92,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "65221e3d065c2584c775d96a1f1b85f2",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-08T16:00:00Z",
+          "home": "Maccabi Tel Aviv",
+          "away": "Pallacanestro Olimpia Milano",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Maccabi Tel Aviv",
+                "point": null,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Pallacanestro Olimpia Milano",
+                "point": null,
+                "price": 1.93,
+                "book": "1xBet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Maccabi Tel Aviv",
+                "point": -1.5,
+                "price": 2.08,
+                "book": "1xBet"
+              },
+              {
+                "name": "Pallacanestro Olimpia Milano",
+                "point": 1.5,
+                "price": 1.82,
+                "book": "FanDuel"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 172.5,
+                "price": 1.94,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 172.5,
+                "price": 1.92,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "a3cbc8106c3048e64e2cd76a1e57d009",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-08T18:00:00Z",
+          "home": "FC Bayern München",
+          "away": "Virtus Segafredo Bologna",
+          "markets": {
+            "h2h": [
+              {
+                "name": "FC Bayern München",
+                "point": null,
+                "price": 1.37,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Virtus Segafredo Bologna",
+                "point": null,
+                "price": 3.18,
+                "book": "Coolbet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "FC Bayern München",
+                "point": -6.5,
+                "price": 1.94,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Virtus Segafredo Bologna",
+                "point": 6.5,
+                "price": 1.89,
+                "book": "Coolbet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 166.5,
+                "price": 1.91,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Under",
+                "point": 166.5,
+                "price": 1.91,
+                "book": "Coolbet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "b71a025d118204a075ccafea42b389fe",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-08T18:15:00Z",
+          "home": "Panathinaikos",
+          "away": "Fenerbahce SK",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Fenerbahce SK",
+                "point": null,
+                "price": 2.72,
+                "book": "1xBet"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": null,
+                "price": 1.5,
+                "book": "Unibet (UK)"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Fenerbahce SK",
+                "point": 4.5,
+                "price": 1.93,
+                "book": "1xBet"
+              },
+              {
+                "name": "Panathinaikos",
+                "point": -4.5,
+                "price": 1.93,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 164.5,
+                "price": 1.94,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 164.5,
+                "price": 1.92,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "e3cd5a13ee57a6bfcd69c23f07c8f12c",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-08T18:30:00Z",
+          "home": "Valencia Basket",
+          "away": "Hapoel Tel Aviv",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Hapoel Tel Aviv",
+                "point": null,
+                "price": 1.87,
+                "book": "1xBet"
+              },
+              {
+                "name": "Valencia Basket",
+                "point": null,
+                "price": 1.99,
+                "book": "1xBet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Hapoel Tel Aviv",
+                "point": -1.5,
+                "price": 2.08,
+                "book": "1xBet"
+              },
+              {
+                "name": "Valencia Basket",
+                "point": 1.5,
+                "price": 1.85,
+                "book": "FanDuel"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 175.5,
+                "price": 1.95,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 175.5,
+                "price": 1.91,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "c000fe209e7117aaa0dc0bf7c196d556",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-09T18:15:00Z",
+          "home": "Olympiacos",
+          "away": "Anadolu Efes",
+          "markets": {
+            "h2h": [
+              {
+                "name": "Anadolu Efes",
+                "point": null,
+                "price": 4.33,
+                "book": "1xBet"
+              },
+              {
+                "name": "Olympiacos",
+                "point": null,
+                "price": 1.25,
+                "book": "Unibet (UK)"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "Anadolu Efes",
+                "point": 8.5,
+                "price": 1.87,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Olympiacos",
+                "point": -8.5,
+                "price": 1.99,
+                "book": "1xBet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 168.5,
+                "price": 1.89,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 168.5,
+                "price": 1.97,
+                "book": "1xBet"
+              }
+            ]
+          }
+        },
+        {
+          "id": "50230c94ef9df492170a8102f5321f3f",
+          "league": "Basketball Euroleague",
+          "commence": "2026-10-09T18:30:00Z",
+          "home": "FC Barcelona Bàsquet",
+          "away": "Žalgiris",
+          "markets": {
+            "h2h": [
+              {
+                "name": "FC Barcelona Bàsquet",
+                "point": null,
+                "price": 1.69,
+                "book": "1xBet"
+              },
+              {
+                "name": "Žalgiris",
+                "point": null,
+                "price": 2.26,
+                "book": "1xBet"
+              }
+            ],
+            "spreads": [
+              {
+                "name": "FC Barcelona Bàsquet",
+                "point": -2.5,
+                "price": 1.92,
+                "book": "1xBet"
+              },
+              {
+                "name": "Žalgiris",
+                "point": 2.5,
+                "price": 1.95,
+                "book": "Coolbet"
+              }
+            ],
+            "totals": [
+              {
+                "name": "Over",
+                "point": 170.5,
+                "price": 1.94,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 170.5,
+                "price": 1.92,
+                "book": "1xBet"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "league": "NCAAB",
+      "games": []
+    }
+  ]
+}
