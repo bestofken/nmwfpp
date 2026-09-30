@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T09:40:06.501Z",
+  "generatedAt": "2026-09-30T09:51:22.015Z",
   "leagues": [
     {
       "league": "NBA",
@@ -3260,8 +3260,8 @@
               {
                 "name": "Atlanta Dream",
                 "point": null,
-                "price": 1.63,
-                "book": "Betfair"
+                "price": 1.62,
+                "book": "Bovada"
               },
               {
                 "name": "Washington Mystics",
@@ -3274,14 +3274,14 @@
               {
                 "name": "Atlanta Dream",
                 "point": -3.5,
-                "price": 1.94,
-                "book": "Matchbook"
+                "price": 1.91,
+                "book": "Bovada"
               },
               {
                 "name": "Washington Mystics",
                 "point": 3.5,
-                "price": 1.95,
-                "book": "DraftKings"
+                "price": 1.97,
+                "book": "Matchbook"
               },
               {
                 "name": "Atlanta Dream",
@@ -3562,7 +3562,7 @@
               {
                 "name": "Beşiktaş J.K.",
                 "point": null,
-                "price": 2.76,
+                "price": 2.78,
                 "book": "Betfair"
               },
               {
@@ -3632,8 +3632,8 @@
               {
                 "name": "Over",
                 "point": 175.5,
-                "price": 1.94,
-                "book": "1xBet"
+                "price": 1.95,
+                "book": "Coolbet"
               },
               {
                 "name": "Under",
@@ -3717,8 +3717,8 @@
               {
                 "name": "Panathinaikos",
                 "point": -13.5,
-                "price": 1.96,
-                "book": "Matchbook"
+                "price": 1.93,
+                "book": "Pinnacle"
               },
               {
                 "name": "ASVEL Lyon Villeurbanne",
@@ -3769,6 +3769,18 @@
                 "point": 172.5,
                 "price": 1.4,
                 "book": "Coral"
+              },
+              {
+                "name": "Over",
+                "point": 164.5,
+                "price": 1.88,
+                "book": "Matchbook"
+              },
+              {
+                "name": "Under",
+                "point": 164.5,
+                "price": 1.97,
+                "book": "Matchbook"
               },
               {
                 "name": "Over",
@@ -4071,8 +4083,8 @@
               {
                 "name": "Paris Basketball",
                 "point": 2.5,
-                "price": 1.96,
-                "book": "Coolbet"
+                "price": 1.94,
+                "book": "1xBet"
               },
               {
                 "name": "Žalgiris",
@@ -4098,7 +4110,7 @@
                 "name": "Over",
                 "point": 177.5,
                 "price": 1.91,
-                "book": "1xBet"
+                "book": "Coolbet"
               },
               {
                 "name": "Under",
@@ -4561,7 +4573,7 @@
               {
                 "name": "Pallacanestro Olimpia Milano",
                 "point": null,
-                "price": 1.82,
+                "price": 1.85,
                 "book": "1xBet"
               },
               {
@@ -4581,7 +4593,7 @@
               {
                 "name": "Pallacanestro Olimpia Milano",
                 "point": -1.5,
-                "price": 1.92,
+                "price": 1.95,
                 "book": "1xBet"
               },
               {
