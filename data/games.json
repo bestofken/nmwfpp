@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T09:22:33.116Z",
+  "generatedAt": "2026-09-30T09:40:06.501Z",
   "leagues": [
     {
       "league": "NBA",
@@ -2824,6 +2824,18 @@
               },
               {
                 "name": "Boston Celtics",
+                "point": -5,
+                "price": 1.87,
+                "book": "BetRivers"
+              },
+              {
+                "name": "Miami Heat",
+                "point": 5,
+                "price": 1.93,
+                "book": "BetRivers"
+              },
+              {
+                "name": "Boston Celtics",
                 "point": -5.5,
                 "price": 1.95,
                 "book": "BetMGM"
@@ -3347,7 +3359,7 @@
               {
                 "name": "Dallas Wings",
                 "point": null,
-                "price": 2.6,
+                "price": 2.57,
                 "book": "1xBet"
               },
               {
@@ -3361,14 +3373,14 @@
               {
                 "name": "Dallas Wings",
                 "point": 4.5,
-                "price": 1.91,
-                "book": "Bovada"
+                "price": 1.88,
+                "book": "LowVig.ag"
               },
               {
                 "name": "Golden State Valkyries",
                 "point": -4.5,
                 "price": 1.97,
-                "book": "LowVig.ag"
+                "book": "1xBet"
               },
               {
                 "name": "Dallas Wings",
@@ -3385,8 +3397,8 @@
               {
                 "name": "Dallas Wings",
                 "point": 4,
-                "price": 1.91,
-                "book": "MyBookie.ag"
+                "price": 1.95,
+                "book": "Bovada"
               },
               {
                 "name": "Golden State Valkyries",
@@ -3417,8 +3429,8 @@
               {
                 "name": "Under",
                 "point": 156.5,
-                "price": 1.95,
-                "book": "1xBet"
+                "price": 1.93,
+                "book": "LowVig.ag"
               },
               {
                 "name": "Over",
@@ -3522,14 +3534,14 @@
               {
                 "name": "Over",
                 "point": 180.5,
-                "price": 1.85,
-                "book": "Coolbet"
+                "price": 1.8,
+                "book": "888sport"
               },
               {
                 "name": "Under",
                 "point": 180.5,
-                "price": 1.93,
-                "book": "Coolbet"
+                "price": 1.91,
+                "book": "888sport"
               }
             ]
           }
@@ -3556,8 +3568,8 @@
               {
                 "name": "Maccabi Tel Aviv",
                 "point": null,
-                "price": 1.52,
-                "book": "1xBet"
+                "price": 1.53,
+                "book": "Betfair"
               },
               {
                 "name": "Draw",
@@ -3674,7 +3686,7 @@
                 "name": "Panathinaikos",
                 "point": null,
                 "price": 1.13,
-                "book": "Betfair"
+                "book": "Pinnacle"
               },
               {
                 "name": "Draw",
@@ -3693,7 +3705,7 @@
               {
                 "name": "Panathinaikos",
                 "point": -14.5,
-                "price": 2.05,
+                "price": 2,
                 "book": "Bovada"
               },
               {
@@ -3705,8 +3717,8 @@
               {
                 "name": "Panathinaikos",
                 "point": -13.5,
-                "price": 1.93,
-                "book": "Pinnacle"
+                "price": 1.96,
+                "book": "Matchbook"
               },
               {
                 "name": "ASVEL Lyon Villeurbanne",
@@ -3719,18 +3731,6 @@
                 "point": -19.5,
                 "price": 2.6,
                 "book": "Coral"
-              },
-              {
-                "name": "ASVEL Lyon Villeurbanne",
-                "point": 13,
-                "price": 2,
-                "book": "Matchbook"
-              },
-              {
-                "name": "Panathinaikos",
-                "point": -13,
-                "price": 1.89,
-                "book": "Matchbook"
               },
               {
                 "name": "ASVEL Lyon Villeurbanne",
@@ -3817,7 +3817,7 @@
                 "name": "Hapoel Tel Aviv",
                 "point": -1.5,
                 "price": 2,
-                "book": "Coolbet"
+                "book": "888sport"
               },
               {
                 "name": "Real Madrid",
@@ -4022,19 +4022,7 @@
               {
                 "name": "Under",
                 "point": 169.5,
-                "price": 1.91,
-                "book": "888sport"
-              },
-              {
-                "name": "Over",
-                "point": 168.5,
-                "price": 1.87,
-                "book": "Coolbet"
-              },
-              {
-                "name": "Under",
-                "point": 168.5,
-                "price": 1.95,
+                "price": 1.92,
                 "book": "Coolbet"
               },
               {
@@ -4083,14 +4071,14 @@
               {
                 "name": "Paris Basketball",
                 "point": 2.5,
-                "price": 1.94,
-                "book": "1xBet"
+                "price": 1.96,
+                "book": "Coolbet"
               },
               {
                 "name": "Žalgiris",
                 "point": -2.5,
-                "price": 1.95,
-                "book": "Coolbet"
+                "price": 1.92,
+                "book": "1xBet"
               },
               {
                 "name": "Paris Basketball",
@@ -4177,7 +4165,7 @@
                 "name": "Beşiktaş J.K.",
                 "point": -2.5,
                 "price": 1.89,
-                "book": "Coolbet"
+                "book": "FanDuel"
               },
               {
                 "name": "FC Barcelona Bàsquet",
@@ -4283,8 +4271,8 @@
               {
                 "name": "Over",
                 "point": 166.5,
-                "price": 1.93,
-                "book": "1xBet"
+                "price": 1.95,
+                "book": "Coolbet"
               },
               {
                 "name": "Under",
@@ -4692,8 +4680,8 @@
               {
                 "name": "ASVEL Lyon Villeurbanne",
                 "point": 5.5,
-                "price": 1.95,
-                "book": "Coolbet"
+                "price": 1.93,
+                "book": "1xBet"
               },
               {
                 "name": "Paris Basketball",
@@ -4845,13 +4833,13 @@
               {
                 "name": "FC Bayern München",
                 "point": -6.5,
-                "price": 1.94,
-                "book": "FanDuel"
+                "price": 1.95,
+                "book": "Coolbet"
               },
               {
                 "name": "Virtus Segafredo Bologna",
                 "point": 6.5,
-                "price": 1.89,
+                "price": 1.87,
                 "book": "Coolbet"
               }
             ],
