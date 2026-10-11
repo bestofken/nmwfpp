@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:40:56.261Z",
+  "generatedAt": "2026-10-11T16:07:52.555Z",
   "leagues": [
     {
       "league": "NBA",
@@ -91,13 +91,13 @@
               {
                 "name": "Over",
                 "point": 219.5,
-                "price": 1.9,
+                "price": 1.8,
                 "book": "Tipico"
               },
               {
                 "name": "Under",
                 "point": 219.5,
-                "price": 1.8,
+                "price": 1.9,
                 "book": "Tipico"
               },
               {
@@ -126,13 +126,13 @@
               {
                 "name": "New York Knicks",
                 "point": null,
-                "price": 1.58,
-                "book": "1xBet"
+                "price": 1.56,
+                "book": "Betway"
               },
               {
                 "name": "Philadelphia 76ers",
                 "point": null,
-                "price": 2.78,
+                "price": 2.84,
                 "book": "Pinnacle"
               }
             ],
@@ -140,8 +140,8 @@
               {
                 "name": "New York Knicks",
                 "point": -5.5,
-                "price": 2,
-                "book": "Pinnacle"
+                "price": 1.96,
+                "book": "1xBet"
               },
               {
                 "name": "Philadelphia 76ers",
@@ -158,20 +158,20 @@
               {
                 "name": "Philadelphia 76ers",
                 "point": 5,
-                "price": 1.95,
-                "book": "Bovada"
+                "price": 1.94,
+                "book": "LowVig.ag"
               },
               {
                 "name": "New York Knicks",
                 "point": -4.5,
-                "price": 1.91,
-                "book": "MyBookie.ag"
+                "price": 1.85,
+                "book": "888sport"
               },
               {
                 "name": "Philadelphia 76ers",
                 "point": 4.5,
-                "price": 1.91,
-                "book": "MyBookie.ag"
+                "price": 1.85,
+                "book": "888sport"
               }
             ],
             "totals": [
@@ -226,13 +226,13 @@
               {
                 "name": "Over",
                 "point": 229.5,
-                "price": 1.9,
+                "price": 1.8,
                 "book": "Tipico"
               },
               {
                 "name": "Under",
                 "point": 229.5,
-                "price": 1.8,
+                "price": 1.9,
                 "book": "Tipico"
               },
               {
@@ -490,7 +490,7 @@
               {
                 "name": "Under",
                 "point": 238,
-                "price": 2,
+                "price": 1.99,
                 "book": "Pinnacle"
               },
               {
@@ -519,7 +519,7 @@
               {
                 "name": "Atlanta Hawks",
                 "point": null,
-                "price": 2.21,
+                "price": 2.26,
                 "book": "Pinnacle"
               },
               {
@@ -533,8 +533,8 @@
               {
                 "name": "Atlanta Hawks",
                 "point": 2.5,
-                "price": 1.96,
-                "book": "1xBet"
+                "price": 1.98,
+                "book": "Pinnacle"
               },
               {
                 "name": "Orlando Magic",
@@ -607,14 +607,14 @@
               },
               {
                 "name": "Brooklyn Nets",
-                "point": 3,
-                "price": 1.85,
+                "point": 2,
+                "price": 1.96,
                 "book": "Pinnacle"
               },
               {
                 "name": "Charlotte Hornets",
-                "point": -3,
-                "price": 2.04,
+                "point": -2,
+                "price": 1.93,
                 "book": "Pinnacle"
               },
               {
@@ -646,13 +646,13 @@
               {
                 "name": "Over",
                 "point": 222,
-                "price": 1.92,
+                "price": 1.94,
                 "book": "Pinnacle"
               },
               {
                 "name": "Under",
                 "point": 222,
-                "price": 1.95,
+                "price": 1.93,
                 "book": "Pinnacle"
               },
               {
@@ -664,20 +664,20 @@
               {
                 "name": "Under",
                 "point": 222.5,
-                "price": 1.96,
-                "book": "1xBet"
+                "price": 1.93,
+                "book": "Coolbet"
               },
               {
                 "name": "Over",
                 "point": 221.5,
-                "price": 1.83,
-                "book": "Tipico"
+                "price": 1.93,
+                "book": "1xBet"
               },
               {
                 "name": "Under",
                 "point": 221.5,
-                "price": 1.87,
-                "book": "Tipico"
+                "price": 1.99,
+                "book": "1xBet"
               },
               {
                 "name": "Over",
@@ -755,13 +755,13 @@
               {
                 "name": "Chicago Bulls",
                 "point": 9,
-                "price": 1.91,
+                "price": 1.9,
                 "book": "Coolbet"
               },
               {
                 "name": "Toronto Raptors",
                 "point": -9,
-                "price": 1.93,
+                "price": 1.95,
                 "book": "Coolbet"
               }
             ],
@@ -792,14 +792,14 @@
               {
                 "name": "Miami Heat",
                 "point": null,
-                "price": 1.88,
-                "book": "1xBet"
+                "price": 1.89,
+                "book": "Pinnacle"
               },
               {
                 "name": "Minnesota Timberwolves",
                 "point": null,
-                "price": 2.05,
-                "book": "DraftKings"
+                "price": 2.07,
+                "book": "1xBet"
               }
             ],
             "spreads": [
@@ -832,25 +832,37 @@
               {
                 "name": "Over",
                 "point": 241.5,
-                "price": 1.93,
+                "price": 1.96,
                 "book": "1xBet"
               },
               {
                 "name": "Under",
                 "point": 241.5,
-                "price": 1.99,
+                "price": 1.96,
                 "book": "1xBet"
               },
               {
                 "name": "Over",
+                "point": 240.5,
+                "price": 1.9,
+                "book": "Tipico"
+              },
+              {
+                "name": "Under",
+                "point": 240.5,
+                "price": 1.8,
+                "book": "Tipico"
+              },
+              {
+                "name": "Over",
                 "point": 242,
-                "price": 1.94,
+                "price": 1.95,
                 "book": "Pinnacle"
               },
               {
                 "name": "Under",
                 "point": 242,
-                "price": 1.93,
+                "price": 1.92,
                 "book": "Pinnacle"
               },
               {
@@ -891,8 +903,8 @@
               {
                 "name": "Indiana Pacers",
                 "point": null,
-                "price": 1.71,
-                "book": "Betfair"
+                "price": 1.72,
+                "book": "1xBet"
               },
               {
                 "name": "New Orleans Pelicans",
@@ -902,18 +914,6 @@
               }
             ],
             "spreads": [
-              {
-                "name": "Indiana Pacers",
-                "point": -4.5,
-                "price": 1.95,
-                "book": "DraftKings"
-              },
-              {
-                "name": "New Orleans Pelicans",
-                "point": 4.5,
-                "price": 1.87,
-                "book": "DraftKings"
-              },
               {
                 "name": "Indiana Pacers",
                 "point": -3.5,
@@ -929,17 +929,41 @@
               {
                 "name": "Indiana Pacers",
                 "point": -4,
-                "price": 1.93,
-                "book": "Unibet (SE)"
+                "price": 1.95,
+                "book": "Coolbet"
               },
               {
                 "name": "New Orleans Pelicans",
                 "point": 4,
-                "price": 1.88,
-                "book": "Unibet (SE)"
+                "price": 1.9,
+                "book": "Coolbet"
               }
             ],
             "totals": [
+              {
+                "name": "Over",
+                "point": 243.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
+                "name": "Under",
+                "point": 243.5,
+                "price": 1.91,
+                "book": "Coral"
+              },
+              {
+                "name": "Over",
+                "point": 242,
+                "price": 1.91,
+                "book": "Bovada"
+              },
+              {
+                "name": "Under",
+                "point": 242,
+                "price": 1.91,
+                "book": "Bovada"
+              },
               {
                 "name": "Over",
                 "point": 242.5,
@@ -949,32 +973,8 @@
               {
                 "name": "Under",
                 "point": 242.5,
-                "price": 1.95,
-                "book": "DraftKings"
-              },
-              {
-                "name": "Over",
-                "point": 242,
-                "price": 1.91,
-                "book": "Bovada"
-              },
-              {
-                "name": "Under",
-                "point": 242,
-                "price": 1.91,
-                "book": "Bovada"
-              },
-              {
-                "name": "Over",
-                "point": 243.5,
-                "price": 1.91,
-                "book": "Coral"
-              },
-              {
-                "name": "Under",
-                "point": 243.5,
-                "price": 1.91,
-                "book": "Coral"
+                "price": 1.93,
+                "book": "LowVig.ag"
               },
               {
                 "name": "Over",
@@ -1026,13 +1026,13 @@
               {
                 "name": "Memphis Grizzlies",
                 "point": null,
-                "price": 2.22,
-                "book": "Pinnacle"
+                "price": 2.2,
+                "book": "BetMGM"
               },
               {
                 "name": "Utah Jazz",
                 "point": null,
-                "price": 1.79,
+                "price": 1.86,
                 "book": "1xBet"
               }
             ],
@@ -1046,92 +1046,104 @@
               {
                 "name": "Utah Jazz",
                 "point": -2.5,
-                "price": 1.96,
-                "book": "1xBet"
-              },
-              {
-                "name": "Memphis Grizzlies",
-                "point": 3.5,
-                "price": 1.8,
-                "book": "Tipico"
-              },
-              {
-                "name": "Utah Jazz",
-                "point": -3.5,
-                "price": 1.9,
-                "book": "Tipico"
+                "price": 1.97,
+                "book": "Pinnacle"
               },
               {
                 "name": "Memphis Grizzlies",
                 "point": 3,
-                "price": 1.9,
-                "book": "Pinnacle"
+                "price": 1.89,
+                "book": "Unibet (SE)"
               },
               {
                 "name": "Utah Jazz",
                 "point": -3,
-                "price": 1.99,
-                "book": "Pinnacle"
+                "price": 1.92,
+                "book": "Unibet (SE)"
+              },
+              {
+                "name": "Memphis Grizzlies",
+                "point": 1.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Utah Jazz",
+                "point": -1.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Memphis Grizzlies",
+                "point": 2,
+                "price": 1.93,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Utah Jazz",
+                "point": -2,
+                "price": 1.91,
+                "book": "Coolbet"
               }
             ],
             "totals": [
               {
                 "name": "Over",
                 "point": 242.5,
-                "price": 1.91,
-                "book": "DraftKings"
+                "price": 1.93,
+                "book": "LowVig.ag"
               },
               {
                 "name": "Under",
                 "point": 242.5,
-                "price": 1.91,
-                "book": "DraftKings"
-              },
-              {
-                "name": "Over",
-                "point": 242,
-                "price": 1.95,
-                "book": "Pinnacle"
-              },
-              {
-                "name": "Under",
-                "point": 242,
-                "price": 1.92,
-                "book": "Pinnacle"
-              },
-              {
-                "name": "Over",
-                "point": 241.5,
-                "price": 1.96,
-                "book": "1xBet"
-              },
-              {
-                "name": "Under",
-                "point": 241.5,
-                "price": 1.96,
-                "book": "1xBet"
-              },
-              {
-                "name": "Over",
-                "point": 240.5,
-                "price": 1.9,
-                "book": "Tipico"
-              },
-              {
-                "name": "Under",
-                "point": 240.5,
-                "price": 1.8,
-                "book": "Tipico"
+                "price": 1.93,
+                "book": "LowVig.ag"
               },
               {
                 "name": "Over",
                 "point": 243.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Under",
+                "point": 243.5,
+                "price": 1.96,
+                "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 241.5,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Under",
+                "point": 241.5,
+                "price": 1.91,
+                "book": "Ladbrokes"
+              },
+              {
+                "name": "Over",
+                "point": 243,
+                "price": 1.91,
+                "book": "MyBookie.ag"
+              },
+              {
+                "name": "Under",
+                "point": 243,
+                "price": 1.97,
+                "book": "Pinnacle"
+              },
+              {
+                "name": "Over",
+                "point": 244.5,
                 "price": 1.91,
                 "book": "FanDuel"
               },
               {
                 "name": "Under",
-                "point": 243.5,
+                "point": 244.5,
                 "price": 1.91,
                 "book": "FanDuel"
               }
@@ -1162,21 +1174,21 @@
             "spreads": [
               {
                 "name": "Dallas Mavericks",
-                "point": 7.5,
-                "price": 2,
-                "book": "888sport"
+                "point": 8.5,
+                "price": 1.87,
+                "book": "BetMGM"
               },
               {
                 "name": "Houston Rockets",
-                "point": -7.5,
-                "price": 1.85,
+                "point": -8.5,
+                "price": 1.98,
                 "book": "DraftKings"
               },
               {
                 "name": "Dallas Mavericks",
                 "point": 8,
-                "price": 1.94,
-                "book": "LowVig.ag"
+                "price": 1.95,
+                "book": "Coolbet"
               },
               {
                 "name": "Houston Rockets",
@@ -1186,14 +1198,14 @@
               },
               {
                 "name": "Dallas Mavericks",
-                "point": 8.5,
-                "price": 1.91,
+                "point": 7.5,
+                "price": 2.01,
                 "book": "1xBet"
               },
               {
                 "name": "Houston Rockets",
-                "point": -8.5,
-                "price": 2.01,
+                "point": -7.5,
+                "price": 1.91,
                 "book": "1xBet"
               }
             ],
@@ -1212,15 +1224,27 @@
               },
               {
                 "name": "Over",
-                "point": 227.5,
-                "price": 1.96,
+                "point": 228.5,
+                "price": 1.93,
                 "book": "1xBet"
               },
               {
                 "name": "Under",
-                "point": 227.5,
-                "price": 1.96,
+                "point": 228.5,
+                "price": 1.99,
                 "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 227.5,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 227.5,
+                "price": 1.93,
+                "book": "LowVig.ag"
               },
               {
                 "name": "Over",
@@ -1245,6 +1269,18 @@
                 "point": 229.5,
                 "price": 1.91,
                 "book": "FanDuel"
+              },
+              {
+                "name": "Over",
+                "point": 228,
+                "price": 1.91,
+                "book": "MyBookie.ag"
+              },
+              {
+                "name": "Under",
+                "point": 228,
+                "price": 1.91,
+                "book": "MyBookie.ag"
               }
             ]
           }
@@ -1335,6 +1371,18 @@
               },
               {
                 "name": "Over",
+                "point": 233.5,
+                "price": 1.77,
+                "book": "Tipico"
+              },
+              {
+                "name": "Under",
+                "point": 233.5,
+                "price": 1.93,
+                "book": "Tipico"
+              },
+              {
+                "name": "Over",
                 "point": 235,
                 "price": 1.95,
                 "book": "Pinnacle"
@@ -1360,13 +1408,13 @@
               {
                 "name": "Over",
                 "point": 236,
-                "price": 1.92,
+                "price": 1.93,
                 "book": "Coolbet"
               },
               {
                 "name": "Under",
                 "point": 236,
-                "price": 1.92,
+                "price": 1.91,
                 "book": "Coolbet"
               }
             ]
@@ -1465,8 +1513,8 @@
               {
                 "name": "Under",
                 "point": 235,
-                "price": 1.93,
-                "book": "LowVig.ag"
+                "price": 1.95,
+                "book": "Coolbet"
               },
               {
                 "name": "Over",
@@ -1532,14 +1580,14 @@
               {
                 "name": "Los Angeles Clippers",
                 "point": -4,
-                "price": 1.92,
+                "price": 1.93,
                 "book": "Coolbet"
               },
               {
                 "name": "Sacramento Kings",
                 "point": 4,
-                "price": 1.92,
-                "book": "Coolbet"
+                "price": 1.91,
+                "book": "Unibet (NL)"
               }
             ],
             "totals": [
@@ -1575,8 +1623,8 @@
               {
                 "name": "Philadelphia 76ers",
                 "point": null,
-                "price": 1.68,
-                "book": "1xBet"
+                "price": 1.73,
+                "book": "Paddy Power"
               }
             ],
             "spreads": [
@@ -1589,8 +1637,8 @@
               {
                 "name": "Philadelphia 76ers",
                 "point": -3.5,
-                "price": 1.94,
-                "book": "LowVig.ag"
+                "price": 1.95,
+                "book": "Coolbet"
               },
               {
                 "name": "Cleveland Cavaliers",
@@ -1601,20 +1649,20 @@
               {
                 "name": "Philadelphia 76ers",
                 "point": -4.5,
-                "price": 1.95,
-                "book": "BetMGM"
+                "price": 1.92,
+                "book": "Unibet (SE)"
               },
               {
                 "name": "Cleveland Cavaliers",
-                "point": 4,
+                "point": 2.5,
                 "price": 1.91,
-                "book": "Coolbet"
+                "book": "FanDuel"
               },
               {
                 "name": "Philadelphia 76ers",
-                "point": -4,
-                "price": 1.93,
-                "book": "Coolbet"
+                "point": -2.5,
+                "price": 1.91,
+                "book": "FanDuel"
               }
             ],
             "totals": [
@@ -1632,27 +1680,39 @@
               },
               {
                 "name": "Over",
-                "point": 233,
-                "price": 1.98,
-                "book": "LowVig.ag"
-              },
-              {
-                "name": "Under",
-                "point": 233,
-                "price": 1.88,
-                "book": "LowVig.ag"
-              },
-              {
-                "name": "Over",
                 "point": 234.5,
-                "price": 1.92,
-                "book": "Grosvenor"
+                "price": 1.93,
+                "book": "Nordic Bet"
               },
               {
                 "name": "Under",
                 "point": 234.5,
                 "price": 1.9,
                 "book": "Virgin Bet"
+              },
+              {
+                "name": "Over",
+                "point": 234,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Under",
+                "point": 234,
+                "price": 1.93,
+                "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 236.5,
+                "price": 1.95,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 236.5,
+                "price": 1.87,
+                "book": "FanDuel"
               }
             ]
           }
@@ -1668,13 +1728,13 @@
               {
                 "name": "Denver Nuggets",
                 "point": null,
-                "price": 3.31,
+                "price": 3.42,
                 "book": "1xBet"
               },
               {
                 "name": "Oklahoma City Thunder",
                 "point": null,
-                "price": 1.39,
+                "price": 1.37,
                 "book": "1xBet"
               }
             ],
@@ -1682,14 +1742,26 @@
               {
                 "name": "Denver Nuggets",
                 "point": 7.5,
-                "price": 1.95,
-                "book": "Coolbet"
+                "price": 1.96,
+                "book": "1xBet"
               },
               {
                 "name": "Oklahoma City Thunder",
                 "point": -7.5,
-                "price": 2,
+                "price": 1.96,
                 "book": "1xBet"
+              },
+              {
+                "name": "Denver Nuggets",
+                "point": 8.5,
+                "price": 1.87,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": -8.5,
+                "price": 1.95,
+                "book": "FanDuel"
               }
             ],
             "totals": [
@@ -1716,6 +1788,30 @@
                 "point": 233.5,
                 "price": 1.93,
                 "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 237.5,
+                "price": 1.93,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Under",
+                "point": 237.5,
+                "price": 1.83,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Over",
+                "point": 236.5,
+                "price": 1.91,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 236.5,
+                "price": 1.91,
+                "book": "FanDuel"
               }
             ]
           }
@@ -1961,13 +2057,13 @@
               {
                 "name": "Brooklyn Nets",
                 "point": 7.5,
-                "price": 2,
+                "price": 2.03,
                 "book": "1xBet"
               },
               {
                 "name": "Detroit Pistons",
                 "point": -7.5,
-                "price": 1.92,
+                "price": 1.89,
                 "book": "1xBet"
               }
             ],
@@ -2202,13 +2298,13 @@
               {
                 "name": "Los Angeles Clippers",
                 "point": null,
-                "price": 3.6,
+                "price": 3.5,
                 "book": "DraftKings"
               },
               {
                 "name": "Minnesota Timberwolves",
                 "point": null,
-                "price": 1.31,
+                "price": 1.32,
                 "book": "DraftKings"
               }
             ],
@@ -2253,13 +2349,13 @@
               {
                 "name": "Denver Nuggets",
                 "point": null,
-                "price": 1.8,
+                "price": 1.78,
                 "book": "1xBet"
               },
               {
                 "name": "Phoenix Suns",
                 "point": null,
-                "price": 2.15,
+                "price": 2.18,
                 "book": "1xBet"
               }
             ],
@@ -2280,14 +2376,14 @@
             "totals": [
               {
                 "name": "Over",
-                "point": 233.5,
-                "price": 1.91,
+                "point": 234.5,
+                "price": 2.01,
                 "book": "1xBet"
               },
               {
                 "name": "Under",
-                "point": 233.5,
-                "price": 2.01,
+                "point": 234.5,
+                "price": 1.91,
                 "book": "1xBet"
               }
             ]
@@ -2508,7 +2604,7 @@
               {
                 "name": "Golden State Warriors",
                 "point": null,
-                "price": 5.34,
+                "price": 5.38,
                 "book": "1xBet"
               },
               {
@@ -2522,13 +2618,13 @@
               {
                 "name": "Golden State Warriors",
                 "point": 10.5,
-                "price": 1.98,
-                "book": "DraftKings"
+                "price": 2.03,
+                "book": "1xBet"
               },
               {
                 "name": "San Antonio Spurs",
                 "point": -10.5,
-                "price": 1.96,
+                "price": 1.89,
                 "book": "1xBet"
               }
             ],
@@ -2536,25 +2632,13 @@
               {
                 "name": "Over",
                 "point": 236.5,
-                "price": 1.95,
-                "book": "DraftKings"
-              },
-              {
-                "name": "Under",
-                "point": 236.5,
-                "price": 1.87,
-                "book": "DraftKings"
-              },
-              {
-                "name": "Over",
-                "point": 234.5,
-                "price": 1.96,
+                "price": 2.01,
                 "book": "1xBet"
               },
               {
                 "name": "Under",
-                "point": 234.5,
-                "price": 1.96,
+                "point": 236.5,
+                "price": 1.91,
                 "book": "1xBet"
               }
             ]
@@ -2571,13 +2655,13 @@
               {
                 "name": "Detroit Pistons",
                 "point": null,
-                "price": 1.89,
+                "price": 1.87,
                 "book": "DraftKings"
               },
               {
                 "name": "Toronto Raptors",
                 "point": null,
-                "price": 1.93,
+                "price": 1.95,
                 "book": "DraftKings"
               }
             ],
@@ -2673,13 +2757,13 @@
               {
                 "name": "Boston Celtics",
                 "point": null,
-                "price": 1.59,
+                "price": 1.58,
                 "book": "1xBet"
               },
               {
                 "name": "Washington Wizards",
                 "point": null,
-                "price": 2.56,
+                "price": 2.57,
                 "book": "1xBet"
               }
             ],
@@ -2839,14 +2923,14 @@
             "spreads": [
               {
                 "name": "Minnesota Timberwolves",
-                "point": 9.5,
-                "price": 1.89,
+                "point": 8.5,
+                "price": 2.03,
                 "book": "1xBet"
               },
               {
                 "name": "Oklahoma City Thunder",
-                "point": -9.5,
-                "price": 2.03,
+                "point": -8.5,
+                "price": 1.89,
                 "book": "1xBet"
               }
             ],
@@ -2993,13 +3077,13 @@
               {
                 "name": "Los Angeles Lakers",
                 "point": 7.5,
-                "price": 2.03,
+                "price": 2,
                 "book": "1xBet"
               },
               {
                 "name": "San Antonio Spurs",
                 "point": -7.5,
-                "price": 1.89,
+                "price": 1.92,
                 "book": "1xBet"
               }
             ],
@@ -3216,14 +3300,14 @@
               {
                 "name": "Los Angeles Lakers",
                 "point": null,
-                "price": 1.96,
+                "price": 1.92,
                 "book": "1xBet"
               },
               {
                 "name": "Philadelphia 76ers",
                 "point": null,
                 "price": 2,
-                "book": "Bovada"
+                "book": "1xBet"
               }
             ],
             "spreads": [
@@ -3268,14 +3352,14 @@
               {
                 "name": "Over",
                 "point": 237.5,
-                "price": 1.92,
-                "book": "GTbets"
+                "price": 1.96,
+                "book": "1xBet"
               },
               {
                 "name": "Under",
                 "point": 237.5,
-                "price": 1.92,
-                "book": "GTbets"
+                "price": 1.96,
+                "book": "1xBet"
               },
               {
                 "name": "Over",
@@ -3292,14 +3376,14 @@
               {
                 "name": "Over",
                 "point": 235.5,
-                "price": 1.96,
-                "book": "1xBet"
+                "price": 1.86,
+                "book": "Nordic Bet"
               },
               {
                 "name": "Under",
                 "point": 235.5,
-                "price": 1.96,
-                "book": "1xBet"
+                "price": 1.9,
+                "book": "Nordic Bet"
               },
               {
                 "name": "Over",
@@ -3361,6 +3445,18 @@
                 "point": -4.5,
                 "price": 2,
                 "book": "1xBet"
+              },
+              {
+                "name": "Minnesota Timberwolves",
+                "point": 3.5,
+                "price": 1.93,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Oklahoma City Thunder",
+                "point": -3.5,
+                "price": 1.83,
+                "book": "Nordic Bet"
               }
             ],
             "totals": [
@@ -3399,6 +3495,18 @@
                 "point": 233.5,
                 "price": 1.93,
                 "book": "LowVig.ag"
+              },
+              {
+                "name": "Over",
+                "point": 232.5,
+                "price": 1.88,
+                "book": "Nordic Bet"
+              },
+              {
+                "name": "Under",
+                "point": 232.5,
+                "price": 1.88,
+                "book": "Nordic Bet"
               }
             ]
           }
@@ -3477,17 +3585,17 @@
               },
               {
                 "name": "Over",
-                "point": 240.5,
-                "price": 2.01,
-                "book": "1xBet"
-              },
-              {
-                "name": "Under",
-                "point": 240.5,
+                "point": 239.5,
                 "price": 1.91,
                 "book": "1xBet"
               },
               {
+                "name": "Under",
+                "point": 239.5,
+                "price": 2.01,
+                "book": "1xBet"
+              },
+              {
                 "name": "Over",
                 "point": 238.5,
                 "price": 1.92,
@@ -3501,15 +3609,15 @@
               },
               {
                 "name": "Over",
-                "point": 239.5,
-                "price": 1.85,
-                "book": "888sport"
+                "point": 237.5,
+                "price": 1.86,
+                "book": "Nordic Bet"
               },
               {
                 "name": "Under",
-                "point": 239.5,
-                "price": 1.85,
-                "book": "888sport"
+                "point": 237.5,
+                "price": 1.9,
+                "book": "Nordic Bet"
               },
               {
                 "name": "Over",
@@ -3542,40 +3650,40 @@
               {
                 "name": "Atlanta Dream",
                 "point": null,
-                "price": 2.29,
+                "price": 2.31,
                 "book": "1xBet"
               },
               {
                 "name": "Golden State Valkyries",
                 "point": null,
-                "price": 1.77,
-                "book": "BetMGM"
+                "price": 1.74,
+                "book": "DraftKings"
               }
             ],
             "spreads": [
               {
                 "name": "Atlanta Dream",
                 "point": 2.5,
-                "price": 1.93,
-                "book": "DraftKings"
-              },
-              {
-                "name": "Golden State Valkyries",
-                "point": -2.5,
                 "price": 1.97,
                 "book": "LowVig.ag"
               },
               {
+                "name": "Golden State Valkyries",
+                "point": -2.5,
+                "price": 1.95,
+                "book": "DraftKings"
+              },
+              {
                 "name": "Atlanta Dream",
-                "point": 1.5,
-                "price": 2,
-                "book": "Unibet (NL)"
+                "point": 3,
+                "price": 1.91,
+                "book": "MyBookie.ag"
               },
               {
                 "name": "Golden State Valkyries",
-                "point": -1.5,
-                "price": 1.81,
-                "book": "Unibet (NL)"
+                "point": -3,
+                "price": 1.91,
+                "book": "MyBookie.ag"
               }
             ],
             "totals": [
@@ -3590,6 +3698,30 @@
                 "point": 153.5,
                 "price": 1.95,
                 "book": "1xBet"
+              },
+              {
+                "name": "Over",
+                "point": 148.5,
+                "price": 1.52,
+                "book": "Betano (UK)"
+              },
+              {
+                "name": "Under",
+                "point": 148.5,
+                "price": 2.3,
+                "book": "Betano (UK)"
+              },
+              {
+                "name": "Over",
+                "point": 154,
+                "price": 1.91,
+                "book": "MyBookie.ag"
+              },
+              {
+                "name": "Under",
+                "point": 154,
+                "price": 1.91,
+                "book": "MyBookie.ag"
               }
             ]
           }
@@ -3617,7 +3749,7 @@
                 "name": "Žalgiris",
                 "point": null,
                 "price": 3.6,
-                "book": "FanDuel"
+                "book": "DraftKings"
               },
               {
                 "name": "Draw",
@@ -3630,14 +3762,14 @@
               {
                 "name": "Fenerbahce SK",
                 "point": -7.5,
-                "price": 1.96,
-                "book": "Coolbet"
+                "price": 2,
+                "book": "888sport"
               },
               {
                 "name": "Žalgiris",
                 "point": 7.5,
-                "price": 1.94,
-                "book": "1xBet"
+                "price": 1.92,
+                "book": "Unibet (NL)"
               },
               {
                 "name": "Fenerbahce SK",
@@ -3680,13 +3812,13 @@
               {
                 "name": "Over",
                 "point": 162.5,
-                "price": 1.95,
-                "book": "Coolbet"
+                "price": 1.93,
+                "book": "1xBet"
               },
               {
                 "name": "Under",
                 "point": 162.5,
-                "price": 1.94,
+                "price": 1.93,
                 "book": "1xBet"
               },
               {
@@ -3716,7 +3848,7 @@
                 "name": "ASVEL Lyon Villeurbanne",
                 "point": null,
                 "price": 2.1,
-                "book": "1xBet"
+                "book": "DraftKings"
               },
               {
                 "name": "KK Crvena zvezda",
@@ -3735,14 +3867,14 @@
               {
                 "name": "ASVEL Lyon Villeurbanne",
                 "point": 1.5,
-                "price": 1.96,
-                "book": "1xBet"
+                "price": 1.95,
+                "book": "DraftKings"
               },
               {
                 "name": "KK Crvena zvezda",
                 "point": -1.5,
-                "price": 1.91,
-                "book": "FanDuel"
+                "price": 1.93,
+                "book": "1xBet"
               },
               {
                 "name": "ASVEL Lyon Villeurbanne",
@@ -3760,27 +3892,27 @@
             "totals": [
               {
                 "name": "Over",
-                "point": 164.5,
-                "price": 1.95,
-                "book": "Coolbet"
+                "point": 163.5,
+                "price": 1.89,
+                "book": "1xBet"
               },
               {
                 "name": "Under",
-                "point": 164.5,
-                "price": 1.93,
+                "point": 163.5,
+                "price": 1.97,
                 "book": "1xBet"
               },
               {
                 "name": "Over",
-                "point": 163.5,
-                "price": 1.88,
-                "book": "FanDuel"
+                "point": 164.5,
+                "price": 2,
+                "book": "888sport"
               },
               {
                 "name": "Under",
-                "point": 163.5,
-                "price": 1.93,
-                "book": "FanDuel"
+                "point": 164.5,
+                "price": 1.91,
+                "book": "DraftKings"
               },
               {
                 "name": "Over",
@@ -3826,8 +3958,8 @@
               {
                 "name": "Saski Baskonia",
                 "point": null,
-                "price": 3,
-                "book": "FanDuel"
+                "price": 3.1,
+                "book": "DraftKings"
               },
               {
                 "name": "Draw",
@@ -3841,7 +3973,7 @@
                 "name": "Dubai Basketball",
                 "point": -5.5,
                 "price": 1.95,
-                "book": "BetMGM"
+                "book": "Coolbet"
               },
               {
                 "name": "Saski Baskonia",
@@ -3921,14 +4053,14 @@
               {
                 "name": "FC Barcelona Bàsquet",
                 "point": -6.5,
-                "price": 1.91,
-                "book": "FanDuel"
+                "price": 1.93,
+                "book": "1xBet"
               },
               {
                 "name": "Maccabi Tel Aviv",
                 "point": 6.5,
                 "price": 1.95,
-                "book": "Coolbet"
+                "book": "Unibet (NL)"
               },
               {
                 "name": "FC Barcelona Bàsquet",
@@ -3947,26 +4079,26 @@
               {
                 "name": "Over",
                 "point": 176.5,
-                "price": 1.95,
-                "book": "Coolbet"
+                "price": 1.94,
+                "book": "FanDuel"
               },
               {
                 "name": "Under",
                 "point": 176.5,
-                "price": 1.91,
-                "book": "BetMGM"
+                "price": 1.93,
+                "book": "1xBet"
               },
               {
                 "name": "Over",
                 "point": 175.5,
-                "price": 1.9,
-                "book": "1xBet"
+                "price": 1.89,
+                "book": "DraftKings"
               },
               {
                 "name": "Under",
                 "point": 175.5,
-                "price": 1.96,
-                "book": "1xBet"
+                "price": 2,
+                "book": "888sport"
               },
               {
                 "name": "Over",
@@ -3994,8 +4126,8 @@
               {
                 "name": "KK Partizan NIS",
                 "point": null,
-                "price": 2.42,
-                "book": "FanDuel"
+                "price": 2.45,
+                "book": "Winamax (DE)"
               },
               {
                 "name": "Panathinaikos",
@@ -4006,7 +4138,7 @@
               {
                 "name": "Draw",
                 "point": null,
-                "price": 12,
+                "price": 11,
                 "book": "Ladbrokes"
               }
             ],
@@ -4026,8 +4158,8 @@
               {
                 "name": "KK Partizan NIS",
                 "point": 2.5,
-                "price": 1.98,
-                "book": "1xBet"
+                "price": 2,
+                "book": "888sport"
               },
               {
                 "name": "Panathinaikos",
@@ -4050,34 +4182,22 @@
               {
                 "name": "KK Partizan NIS",
                 "point": -4.5,
-                "price": 2.8,
+                "price": 3,
                 "book": "Coral"
               },
               {
                 "name": "Panathinaikos",
                 "point": 4.5,
-                "price": 1.36,
+                "price": 1.33,
                 "book": "Coral"
               }
             ],
             "totals": [
               {
                 "name": "Over",
-                "point": 165.5,
-                "price": 1.89,
-                "book": "Coolbet"
-              },
-              {
-                "name": "Under",
-                "point": 165.5,
-                "price": 1.92,
-                "book": "Coolbet"
-              },
-              {
-                "name": "Over",
                 "point": 166.5,
-                "price": 1.94,
-                "book": "FanDuel"
+                "price": 2,
+                "book": "888sport"
               },
               {
                 "name": "Under",
@@ -4087,26 +4207,14 @@
               },
               {
                 "name": "Over",
-                "point": 164.5,
-                "price": 1.91,
-                "book": "BetMGM"
-              },
-              {
-                "name": "Under",
-                "point": 164.5,
-                "price": 1.91,
-                "book": "BetMGM"
-              },
-              {
-                "name": "Over",
                 "point": 171.5,
-                "price": 2.6,
+                "price": 2.3,
                 "book": "Coral"
               },
               {
                 "name": "Under",
                 "point": 171.5,
-                "price": 1.44,
+                "price": 1.5,
                 "book": "Coral"
               }
             ]
@@ -4225,7 +4333,7 @@
                 "name": "Olympiacos",
                 "point": -2.5,
                 "price": 1.93,
-                "book": "FanDuel"
+                "book": "1xBet"
               },
               {
                 "name": "Valencia Basket",
@@ -4305,8 +4413,8 @@
               {
                 "name": "Beşiktaş J.K.",
                 "point": 6.5,
-                "price": 1.95,
-                "book": "Coolbet"
+                "price": 2,
+                "book": "888sport"
               },
               {
                 "name": "Hapoel Tel Aviv",
@@ -4325,6 +4433,18 @@
                 "point": -14.5,
                 "price": 3.3,
                 "book": "Coral"
+              },
+              {
+                "name": "Beşiktaş J.K.",
+                "point": 7.5,
+                "price": 1.83,
+                "book": "BetRivers"
+              },
+              {
+                "name": "Hapoel Tel Aviv",
+                "point": -7.5,
+                "price": 1.95,
+                "book": "BetRivers"
               }
             ],
             "totals": [
@@ -4338,7 +4458,7 @@
                 "name": "Under",
                 "point": 176.5,
                 "price": 1.91,
-                "book": "FanDuel"
+                "book": "Coolbet"
               },
               {
                 "name": "Over",
@@ -4386,13 +4506,13 @@
               {
                 "name": "Anadolu Efes",
                 "point": -6.5,
-                "price": 1.91,
-                "book": "FanDuel"
+                "price": 1.93,
+                "book": "1xBet"
               },
               {
                 "name": "FC Bayern München",
                 "point": 6.5,
-                "price": 1.95,
+                "price": 1.93,
                 "book": "1xBet"
               },
               {
@@ -4412,14 +4532,14 @@
               {
                 "name": "Over",
                 "point": 164.5,
-                "price": 1.95,
+                "price": 1.93,
                 "book": "1xBet"
               },
               {
                 "name": "Under",
                 "point": 164.5,
-                "price": 1.91,
-                "book": "Coolbet"
+                "price": 1.93,
+                "book": "1xBet"
               },
               {
                 "name": "Over",
@@ -4473,8 +4593,8 @@
               {
                 "name": "Virtus Segafredo Bologna",
                 "point": 5.5,
-                "price": 1.93,
-                "book": "1xBet"
+                "price": 1.95,
+                "book": "BetRivers"
               },
               {
                 "name": "Paris Basketball",
@@ -4493,14 +4613,38 @@
               {
                 "name": "Over",
                 "point": 175.5,
-                "price": 1.95,
-                "book": "Coolbet"
+                "price": 1.94,
+                "book": "1xBet"
               },
               {
                 "name": "Under",
                 "point": 175.5,
-                "price": 1.93,
-                "book": "1xBet"
+                "price": 1.95,
+                "book": "Coolbet"
+              },
+              {
+                "name": "Over",
+                "point": 176.5,
+                "price": 1.94,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Under",
+                "point": 176.5,
+                "price": 1.86,
+                "book": "FanDuel"
+              },
+              {
+                "name": "Over",
+                "point": 176,
+                "price": 1.86,
+                "book": "GTbets"
+              },
+              {
+                "name": "Under",
+                "point": 176,
+                "price": 1.89,
+                "book": "GTbets"
               },
               {
                 "name": "Over",
@@ -4572,7 +4716,7 @@
               {
                 "name": "Valencia Basket",
                 "point": null,
-                "price": 1.43,
+                "price": 1.44,
                 "book": "1xBet"
               }
             ],
@@ -4580,13 +4724,13 @@
               {
                 "name": "Maccabi Tel Aviv",
                 "point": 5.5,
-                "price": 1.95,
+                "price": 1.94,
                 "book": "1xBet"
               },
               {
                 "name": "Valencia Basket",
                 "point": -5.5,
-                "price": 1.91,
+                "price": 1.92,
                 "book": "1xBet"
               }
             ],
@@ -4610,7 +4754,7 @@
               {
                 "name": "Real Madrid",
                 "point": null,
-                "price": 1.1,
+                "price": 1.11,
                 "book": "1xBet"
               }
             ],
@@ -4756,28 +4900,28 @@
               {
                 "name": "Hapoel Tel Aviv",
                 "point": null,
-                "price": 3.31,
-                "book": "1xBet"
+                "price": 3.6,
+                "book": "FanDuel"
               },
               {
                 "name": "Panathinaikos",
                 "point": null,
-                "price": 1.39,
-                "book": "Betfair"
+                "price": 1.32,
+                "book": "1xBet"
               }
             ],
             "spreads": [
               {
                 "name": "Hapoel Tel Aviv",
-                "point": 5.5,
-                "price": 2.08,
+                "point": 7.5,
+                "price": 1.93,
                 "book": "1xBet"
               },
               {
                 "name": "Panathinaikos",
-                "point": -5.5,
-                "price": 1.85,
-                "book": "FanDuel"
+                "point": -7.5,
+                "price": 1.93,
+                "book": "1xBet"
               }
             ],
             "totals": []
